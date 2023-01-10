@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=DDS-ALL&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
