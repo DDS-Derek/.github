@@ -6,13 +6,13 @@
 🆔 ID: DDSDerek | Derek | DDSRem
 ```
 
-## 📫 How to Reach me
+## 📫 REACH ME
 <p align="left">
 <a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-## 📈 Stats
+## 📈 STATS
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
 
@@ -29,5 +29,7 @@ IDE & Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
+
+## 💼 WORKING
 
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
