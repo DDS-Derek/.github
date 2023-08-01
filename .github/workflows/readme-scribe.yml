@@ -16,7 +16,7 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
       -
-        uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
+        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4
         with:
           template: profile/README.md.tpl
           writeTo: profile/README.md
