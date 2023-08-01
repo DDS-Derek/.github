@@ -32,17 +32,11 @@ IDE & Tools:
 
 ## 💼 WORKING
 
-#### I'm currently working on
 
 - [DDS-Derek/.github](https://github.com/DDS-Derek/.github) -  (today)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (2 days ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (3 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-
-#### Repositories I created recently
-
-- [DDSDerek/-](https://github.com/DDSDerek/-)
-- [DDSDerek/img](https://github.com/DDSDerek/img)
 
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
