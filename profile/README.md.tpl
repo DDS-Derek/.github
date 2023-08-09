@@ -48,4 +48,10 @@ IDE & Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
+## 📜BLOG
+#### 📜 My recent blog posts
+{{range rss "https://blog.ddsrem.com/rss.xml" 6}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
