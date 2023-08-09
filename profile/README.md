@@ -12,12 +12,6 @@
 <a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-## 📈 STATS
-
-![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
-
 ## 💼 WORKING
 
 #### 🌱 My latest projects
@@ -65,5 +59,11 @@ IDE & Tools:
 - [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (1 year ago)
 - [【Docker项目】简单明了的反向代理工具-nginxWebUI](https://blog.ddsrem.com/archives/nginxwebui) (1 year ago)
 - [【Docker项目】NextCloud安装和使用合集](https://blog.ddsrem.com/archives/nextcloud) (1 year ago)
+
+## 📈 STATS
+
+![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
