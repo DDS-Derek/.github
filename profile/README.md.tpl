@@ -22,7 +22,7 @@
 
 #### 🌱 My latest projects
 
-{{range recentContributions 8}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
@@ -32,7 +32,7 @@
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
-{{range recentPullRequests 6}}
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
