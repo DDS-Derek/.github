@@ -12,12 +12,6 @@
 <a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
-## 📈 STATS
-
-![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
-
 ## 💼 WORKING
 
 #### 🌱 My latest projects
@@ -52,5 +46,11 @@ IDE & Tools:
 {{range rss "https://blog.ddsrem.com/rss.xml" 6}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+## 📈 STATS
+
+![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
