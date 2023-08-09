@@ -49,7 +49,6 @@ IDE & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
 ## 📜BLOG
-#### 📜 My recent blog posts
 {{range rss "https://blog.ddsrem.com/rss.xml" 6}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
