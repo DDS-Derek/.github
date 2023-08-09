@@ -20,8 +20,15 @@
 
 ## 💼 WORKING
 
-{{range recentContributions 10}}
+#### 🌱 My latest projects
+
+{{range recentContributions 8}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🔨 Latest Pull Requests I published
+{{range recentPullRequests 6}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ## 🔧 ENVIRONMENT
