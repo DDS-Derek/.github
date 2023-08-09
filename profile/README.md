@@ -57,4 +57,14 @@ IDE & Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
 
+## 📜BLOG
+#### 📜 My recent blog posts
+
+- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (4 months ago)
+- [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (4 months ago)
+- [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (7 months ago)
+- [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (1 year ago)
+- [【Docker项目】简单明了的反向代理工具-nginxWebUI](https://blog.ddsrem.com/archives/nginxwebui) (1 year ago)
+- [【Docker项目】NextCloud安装和使用合集](https://blog.ddsrem.com/archives/nextcloud) (1 year ago)
+
 ![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
