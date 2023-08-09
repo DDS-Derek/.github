@@ -28,9 +28,6 @@
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (6 days ago)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
-- [ikaros-dev/docs](https://github.com/ikaros-dev/docs) - The docs repo for ikaros project (1 month ago)
-- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -47,7 +44,6 @@
 - [Complete the PUID and PGID settings &amp; Optimize the image](https://github.com/jxxghp/MoviePilot/pull/19) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [Version/3.3.4](https://github.com/lkw199711/smanga/pull/105) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 weeks ago)
 - [优化工作流 &amp; 修复nginx站点目录错误和缓存权限问题](https://github.com/jxxghp/MoviePilot/pull/4) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
-- [fix: docker-compose malformed](https://github.com/ikaros-dev/docs/pull/1) on [ikaros-dev/docs](https://github.com/ikaros-dev/docs) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
