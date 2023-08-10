@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (4 days ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (6 days ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (5 days ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (1 week ago)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.11](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.11), today) - A better BGmi Docker image
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.24.2](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.24.2), today) - A more easy-to-use filebrowser docker image
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.9.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.9.9), 1 day ago) - NAS媒体库管理工具
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.25.1](https://github.com/alist-org/alist/releases/tag/v3.25.1), 2 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [msterzhang/onelist](https://github.com/msterzhang/onelist) ([v2.0.5](https://github.com/msterzhang/onelist/releases/tag/v2.0.5), 6 days ago) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.12](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.12), today) - A better BGmi Docker image
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.24.2](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.24.2), 1 day ago) - A more easy-to-use filebrowser docker image
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.9.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.9.9), 2 days ago) - NAS媒体库管理工具
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.25.1](https://github.com/alist-org/alist/releases/tag/v3.25.1), 3 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [msterzhang/onelist](https://github.com/msterzhang/onelist) ([v2.0.5](https://github.com/msterzhang/onelist/releases/tag/v2.0.5), 1 week ago) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 
 #### 🔨 Latest Pull Requests I published
 
-- [update s6-overlay config file to v3 &amp; clear logs regularly](https://github.com/lkw199711/smanga/pull/113) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (4 days ago)
+- [update s6-overlay config file to v3 &amp; clear logs regularly](https://github.com/lkw199711/smanga/pull/113) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (5 days ago)
 - [fix: optimize pull speed](https://github.com/hsuyelin/nas-tools/pull/24) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 week ago)
 - [Complete the PUID and PGID settings &amp; Optimize the image](https://github.com/jxxghp/MoviePilot/pull/19) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [Version/3.3.4](https://github.com/lkw199711/smanga/pull/105) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 weeks ago)
-- [优化工作流 &amp; 修复nginx站点目录错误和缓存权限问题](https://github.com/jxxghp/MoviePilot/pull/4) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
+- [优化工作流 &amp; 修复nginx站点目录错误和缓存权限问题](https://github.com/jxxghp/MoviePilot/pull/4) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
