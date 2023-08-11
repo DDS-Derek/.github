@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [release build](https://github.com/jxxghp/MoviePilot-Frontend/pull/16) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
 - [update s6-overlay config file to v3 &amp; clear logs regularly](https://github.com/lkw199711/smanga/pull/113) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
 - [fix: optimize pull speed](https://github.com/hsuyelin/nas-tools/pull/24) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 week ago)
 - [Complete the PUID and PGID settings &amp; Optimize the image](https://github.com/jxxghp/MoviePilot/pull/19) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [Version/3.3.4](https://github.com/lkw199711/smanga/pull/105) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 weeks ago)
-- [优化工作流 &amp; 修复nginx站点目录错误和缓存权限问题](https://github.com/jxxghp/MoviePilot/pull/4) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
