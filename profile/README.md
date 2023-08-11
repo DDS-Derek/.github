@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: cn update](https://github.com/jxxghp/MoviePilot/pull/66) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: start.sh 权限](https://github.com/jxxghp/MoviePilot/pull/64) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [frontend remote download](https://github.com/jxxghp/MoviePilot/pull/63) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [release build](https://github.com/jxxghp/MoviePilot-Frontend/pull/16) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
 - [update s6-overlay config file to v3 &amp; clear logs regularly](https://github.com/lkw199711/smanga/pull/113) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
-- [fix: optimize pull speed](https://github.com/hsuyelin/nas-tools/pull/24) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
