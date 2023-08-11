@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.0](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.0), today) - Stash Docker image that supports PUID, PGID, Umask settings
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.4](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.4), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.12](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.12), 1 day ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.24.2](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.24.2), 2 days ago) - A more easy-to-use filebrowser docker image
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.9.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.9.9), 3 days ago) - NAS媒体库管理工具
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.25.1](https://github.com/alist-org/alist/releases/tag/v3.25.1), 4 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 #### 🔨 Latest Pull Requests I published
 
