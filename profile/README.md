@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/20) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
 - [issue fix](https://github.com/jxxghp/MoviePilot/pull/100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: issue 优化](https://github.com/jxxghp/MoviePilot/pull/99) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [尝试处理chrome僵尸进程](https://github.com/jxxghp/MoviePilot/pull/97) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [bump: python 3.11.4](https://github.com/jxxghp/MoviePilot/pull/87) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [fix: libc.musl-arch.so.1 missing](https://github.com/jxxghp/MoviePilot/pull/85) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 
 ## 🔧 ENVIRONMENT
 OS:
