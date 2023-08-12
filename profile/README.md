@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (1 day ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (2 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
