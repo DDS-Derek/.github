@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: libc.musl-arch.so.1 missing](https://github.com/jxxghp/MoviePilot/pull/85) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [Python3多次安装，删除冗余部分](https://github.com/hsuyelin/nas-tools/pull/43) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
 - [feat: cn update](https://github.com/jxxghp/MoviePilot/pull/66) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [fix: start.sh 权限](https://github.com/jxxghp/MoviePilot/pull/64) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [frontend remote download](https://github.com/jxxghp/MoviePilot/pull/63) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [release build](https://github.com/jxxghp/MoviePilot-Frontend/pull/16) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
