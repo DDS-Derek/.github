@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (today)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (today)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 day ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (6 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (1 day ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (2 days ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.1), today) - NAS媒体库管理工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.0](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.0), today) - Stash Docker image that supports PUID, PGID, Umask settings
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.4](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.4), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.12](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.12), 1 day ago) - A better BGmi Docker image
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.24.2](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.24.2), 2 days ago) - A more easy-to-use filebrowser docker image
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.1), 1 day ago) - NAS媒体库管理工具
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.0](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.0), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.4](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.4), 2 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.12](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.12), 2 days ago) - A better BGmi Docker image
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.24.2](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.24.2), 3 days ago) - A more easy-to-use filebrowser docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [Python3多次安装，删除冗余部分](https://github.com/hsuyelin/nas-tools/pull/43) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
-- [feat: cn update](https://github.com/jxxghp/MoviePilot/pull/66) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [fix: start.sh 权限](https://github.com/jxxghp/MoviePilot/pull/64) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [frontend remote download](https://github.com/jxxghp/MoviePilot/pull/63) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [release build](https://github.com/jxxghp/MoviePilot-Frontend/pull/16) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
+- [Python3多次安装，删除冗余部分](https://github.com/hsuyelin/nas-tools/pull/43) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
+- [feat: cn update](https://github.com/jxxghp/MoviePilot/pull/66) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [fix: start.sh 权限](https://github.com/jxxghp/MoviePilot/pull/64) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [frontend remote download](https://github.com/jxxghp/MoviePilot/pull/63) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [release build](https://github.com/jxxghp/MoviePilot-Frontend/pull/16) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
