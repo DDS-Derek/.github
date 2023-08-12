@@ -1,0 +1,21 @@
+name: Test
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    name: Build on Debian 11 Python 3.11.4
+    steps:
+      - uses: actions/checkout@master
+      - uses: DDS-Derek/run-on-arch-action@master
+        name: Run commands
+        id: runcmd
+        with:
+          arch: aarch64
+          distro: python
+          githubToken: ${{ github.token }}
+          run: |
+            uname -a
+            python3 --version
+            pip --version
