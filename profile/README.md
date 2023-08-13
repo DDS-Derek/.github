@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (today)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (1 day ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (2 days ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (2 days ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (3 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/Foundations](https://github.com/DDS-Derek/Foundations) ([v0.0.1](https://github.com/DDS-Derek/Foundations/releases/tag/v0.0.1), today)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.2](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.2), today) - NAS媒体库管理工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.0](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.0), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.4](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.4), 2 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.12](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.12), 2 days ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.0), 1 day ago)
+- [DDS-Derek/Foundations](https://github.com/DDS-Derek/Foundations) ([v0.0.1](https://github.com/DDS-Derek/Foundations/releases/tag/v0.0.1), 1 day ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.2](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.2), 1 day ago) - NAS媒体库管理工具
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.0](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.0), 2 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.4](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.4), 3 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/20) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
-- [issue fix](https://github.com/jxxghp/MoviePilot/pull/100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [feat: issue 优化](https://github.com/jxxghp/MoviePilot/pull/99) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [尝试处理chrome僵尸进程](https://github.com/jxxghp/MoviePilot/pull/97) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [bump: python 3.11.4](https://github.com/jxxghp/MoviePilot/pull/87) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [feat: issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/20) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
+- [issue fix](https://github.com/jxxghp/MoviePilot/pull/100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: issue 优化](https://github.com/jxxghp/MoviePilot/pull/99) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [尝试处理chrome僵尸进程](https://github.com/jxxghp/MoviePilot/pull/97) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [bump: python 3.11.4](https://github.com/jxxghp/MoviePilot/pull/87) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
