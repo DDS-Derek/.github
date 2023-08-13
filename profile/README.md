@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [solve nginx permission problem](https://github.com/jxxghp/MoviePilot/pull/107) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/21) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
 - [issue 优化](https://github.com/jxxghp/MoviePilot/pull/103) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/20) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
 - [issue fix](https://github.com/jxxghp/MoviePilot/pull/100) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: issue 优化](https://github.com/jxxghp/MoviePilot/pull/99) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
