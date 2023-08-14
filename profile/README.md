@@ -1,6 +1,5 @@
 # 👋 Hi there I'm Derek. 
 
-![](./assets/header_.png)
 
 ```
 🆔 ID: DDSDerek | Derek | DDSRem
@@ -8,8 +7,6 @@
 
 ## 📫 REACH ME
 <p align="left">
-<a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="./assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## 💼 WORKING
@@ -66,4 +63,3 @@ IDE & Tools:
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
-![](./assets/Bottom_down.svg)
