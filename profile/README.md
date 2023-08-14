@@ -1,6 +1,6 @@
 # 👋 Hi there I'm Derek. 
 
-![](https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png)
+![](./assets/header_.png)
 
 ```
 🆔 ID: DDSDerek | Derek | DDSRem
@@ -8,8 +8,8 @@
 
 ## 📫 REACH ME
 <p align="left">
-<a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="./assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="./assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## 💼 WORKING
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.4](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.4), today) - NAS媒体库管理工具
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.3](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.3), today) - NAS媒体库管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.0), 1 day ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.2-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.2-0.9.8-0.13.8), 1 day ago)
 - [DDS-Derek/Foundations](https://github.com/DDS-Derek/Foundations) ([v0.0.1](https://github.com/DDS-Derek/Foundations/releases/tag/v0.0.1), 2 days ago)
@@ -66,4 +66,4 @@ IDE & Tools:
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
-![](https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg)
+![](./assets/Bottom_down.svg)
