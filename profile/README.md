@@ -17,7 +17,6 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/.github](https://github.com/DDS-Derek/.github) -  (today)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
