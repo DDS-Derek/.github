@@ -1,5 +1,6 @@
 # 👋 Hi there I'm Derek. 
 
+![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/header_.png)
 
 ```
 🆔 ID: DDSDerek | Derek | DDSRem
@@ -7,6 +8,8 @@
 
 ## 📫 REACH ME
 <p align="left">
+<a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## 💼 WORKING
@@ -14,6 +17,7 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/.github](https://github.com/DDS-Derek/.github) -  (today)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
@@ -63,3 +67,4 @@ IDE & Tools:
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
+![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/Bottom_down.svg)
