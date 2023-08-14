@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (3 days ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (4 days ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
