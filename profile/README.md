@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: support for backend version control](https://github.com/lkw199711/smanga/pull/116) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
 - [feat: baidunetdisk install](https://github.com/opennaslab/kubespider/pull/303) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (2 days ago)
 - [solve nginx permission problem](https://github.com/jxxghp/MoviePilot/pull/107) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/21) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 days ago)
 - [issue 优化](https://github.com/jxxghp/MoviePilot/pull/103) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [feat: issue 优化](https://github.com/jxxghp/MoviePilot-Frontend/pull/20) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
