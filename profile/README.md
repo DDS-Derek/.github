@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.5](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.5), today) - NAS媒体库管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.1), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.1), today)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.4](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.4), 1 day ago) - NAS媒体库管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.2-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.2-0.9.8-0.13.8), 3 days ago)
 - [DDS-Derek/Foundations](https://github.com/DDS-Derek/Foundations) ([v0.0.1](https://github.com/DDS-Derek/Foundations/releases/tag/v0.0.1), 4 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
 - [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: add jq package](https://github.com/jxxghp/MoviePilot/pull/144) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: add PROXY_HOST to update](https://github.com/jxxghp/MoviePilot/pull/142) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [fix: bug](https://github.com/jxxghp/MoviePilot/pull/141) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 
 ## 🔧 ENVIRONMENT
 OS:
