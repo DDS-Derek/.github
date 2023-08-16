@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: add jq package](https://github.com/jxxghp/MoviePilot/pull/144) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: add PROXY_HOST to update](https://github.com/jxxghp/MoviePilot/pull/142) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: bug](https://github.com/jxxghp/MoviePilot/pull/141) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [fix: 程序更新](https://github.com/jxxghp/MoviePilot/pull/134) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 
 ## 🔧 ENVIRONMENT
 OS:
