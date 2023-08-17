@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.5](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.5), today) - 支持PUID，PGID，Umask设置的Reader镜像
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.5](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.5), 1 day ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.1), 1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.1), 1 day ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.2-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.2-0.9.8-0.13.8), 4 days ago)
-- [DDS-Derek/Foundations](https://github.com/DDS-Derek/Foundations) ([v0.0.1](https://github.com/DDS-Derek/Foundations/releases/tag/v0.0.1), 5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
