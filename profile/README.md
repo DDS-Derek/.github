@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.3), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.6-beta](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.6-beta), 1 day ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.2), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.2), 1 day ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.5](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.5), 2 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.2-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.2-0.9.8-0.13.8), 6 days ago)
 
