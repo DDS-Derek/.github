@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.26.0](https://github.com/alist-org/alist/releases/tag/v3.26.0), today) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.7](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.7), today) - NAS媒体库管理工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.3), 1 day ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.3), 2 days ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.5](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.5), 4 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.2-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.2-0.9.8-0.13.8), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
