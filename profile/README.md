@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (4 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (5 days ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (5 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (6 days ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 week ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (1 week ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.26.0](https://github.com/alist-org/alist/releases/tag/v3.26.0), today) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.7](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.7), today) - NAS媒体库管理工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.3), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.3), 2 days ago)
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.5](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.5), 4 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.4), today)
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.26.0](https://github.com/alist-org/alist/releases/tag/v3.26.0), 1 day ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.7](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.7), 1 day ago) - NAS媒体库管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.3), 2 days ago)
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.5](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.5), 5 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (4 days ago)
-- [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (5 days ago)
-- [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [feat: add jq package](https://github.com/jxxghp/MoviePilot/pull/144) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (5 days ago)
+- [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
+- [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [feat: add jq package](https://github.com/jxxghp/MoviePilot/pull/144) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
