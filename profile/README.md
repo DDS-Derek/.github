@@ -17,12 +17,27 @@
 #### 🌱 My latest projects
 
 
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 week ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 week ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.1), today) - Stash Docker image that supports PUID, PGID, Umask settings
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.8), today)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.8), today)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.8](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.8), 4 days ago) - NAS媒体库管理工具
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.26.0](https://github.com/alist-org/alist/releases/tag/v3.26.0), 6 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
+- [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
+- [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
