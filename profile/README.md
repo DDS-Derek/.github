@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 - [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat: add jq package](https://github.com/jxxghp/MoviePilot/pull/144) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
