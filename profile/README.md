@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 week ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
 - [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 - [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix: bug](https://github.com/jxxghp/MoviePilot/pull/145) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
