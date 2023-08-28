@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.6](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.6), today) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.1), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.8), 1 day ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.8), 1 day ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.8](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.8), 5 days ago) - NAS媒体库管理工具
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.26.0](https://github.com/alist-org/alist/releases/tag/v3.26.0), 1 week ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: from s6-overlay change to tini and su-exec](https://github.com/EstrellaXD/Auto_Bangumi/pull/434) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (today)
 - [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
-- [docs: update](https://github.com/jxxghp/MoviePilot/pull/146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
