@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.0.12](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.0.12), today) - AutoBangumi - 全自动追番工具
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.6](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.6), today) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.1), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.8), 1 day ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.8), 1 day ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.2.10.8](https://github.com/hsuyelin/nas-tools/releases/tag/v3.2.10.8), 5 days ago) - NAS媒体库管理工具
 
 #### 🔨 Latest Pull Requests I published
 
