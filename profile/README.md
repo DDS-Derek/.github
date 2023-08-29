@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 day ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 days ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (2 weeks ago)
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.0.12](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.0.12), today) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.6](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.6), today) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.1), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.8), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.8), 1 day ago)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.0.12](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.0.12), 1 day ago) - AutoBangumi - 全自动追番工具
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.6](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.6), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.22.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.22.1), 2 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.8), 2 days ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.8), 2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: from s6-overlay change to tini and su-exec](https://github.com/EstrellaXD/Auto_Bangumi/pull/434) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (today)
-- [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
-- [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: from s6-overlay change to tini and su-exec](https://github.com/EstrellaXD/Auto_Bangumi/pull/434) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 day ago)
+- [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
+- [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 - [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 
