@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.3](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.3), today) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.9), today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.9), today)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.13](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.13), today) - A better BGmi Docker image
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.2](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.2), today) - AutoBangumi - 全自动追番工具
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.6](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.6), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: optimize image size](https://github.com/jxxghp/MoviePilot/pull/325) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: from s6-overlay change to tini and su-exec](https://github.com/EstrellaXD/Auto_Bangumi/pull/434) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 day ago)
 - [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
 - [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
-- [dev to 3.3.8](https://github.com/lkw199711/smanga/pull/117) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
