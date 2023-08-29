@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.3](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.3), today) - AutoBangumi - 全自动追番工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.4](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.4), today) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.9), today)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.9), today)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.13](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.13), today) - A better BGmi Docker image
