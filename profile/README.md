@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.10), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.0), today) - NAS媒体库管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.5-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.5-0.9.8-0.13.8), today)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.4](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.4), 1 day ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.9), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.9), 1 day ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [update docker](https://github.com/jxxghp/MoviePilot-OCR/pull/2) on [jxxghp/MoviePilot-OCR](https://github.com/jxxghp/MoviePilot-OCR) (today)
 - [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [feat(docker): 添加debian镜像，优化镜像labels](https://github.com/hsuyelin/nas-tools/pull/140) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [refactor(docker): 优化架构，s6-overlay配置文件升级v3](https://github.com/hsuyelin/nas-tools/pull/138) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
-- [feat: optimize image size](https://github.com/jxxghp/MoviePilot/pull/325) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
