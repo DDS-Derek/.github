@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
+- [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
+- [feat(docker): 添加debian镜像，优化镜像labels](https://github.com/hsuyelin/nas-tools/pull/140) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
+- [refactor(docker): 优化架构，s6-overlay配置文件升级v3](https://github.com/hsuyelin/nas-tools/pull/138) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [feat: optimize image size](https://github.com/jxxghp/MoviePilot/pull/325) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: from s6-overlay change to tini and su-exec](https://github.com/EstrellaXD/Auto_Bangumi/pull/434) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (2 days ago)
-- [fix: base build](https://github.com/lkw199711/smanga/pull/123) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
-- [feat: 依赖安装添加代理](https://github.com/jxxghp/MoviePilot/pull/291) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [fix: jxxghp/MoviePilot#148](https://github.com/jxxghp/MoviePilot-Frontend/pull/26) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
