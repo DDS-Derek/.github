@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.0), today) - NAS媒体库管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.5-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.5-0.9.8-0.13.8), today)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-alpha.4](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-alpha.4), 1 day ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.0.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.0.9), 1 day ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.0.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.0.9), 1 day ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.13](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.13), 1 day ago) - A better BGmi Docker image
 
 #### 🔨 Latest Pull Requests I published
 
