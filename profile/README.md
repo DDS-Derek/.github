@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.1), today) - NAS媒体库管理工具
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5_4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5_4.5.5.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.0), today)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.1), today) - NAS媒体库管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.0), today)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.4.0](https://github.com/opennaslab/kubespider/releases/tag/v0.4.0), 1 day ago) - A global resource download orchestration system, build your home download center. 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.5-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.5-0.9.8-0.13.8), 2 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(ocr): 修复ocr地址错误](https://github.com/hsuyelin/nas-tools/pull/162) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [update docker](https://github.com/jxxghp/MoviePilot-OCR/pull/2) on [jxxghp/MoviePilot-OCR](https://github.com/jxxghp/MoviePilot-OCR) (2 days ago)
 - [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
 - [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
 - [feat(docker): 添加debian镜像，优化镜像labels](https://github.com/hsuyelin/nas-tools/pull/140) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
-- [refactor(docker): 优化架构，s6-overlay配置文件升级v3](https://github.com/hsuyelin/nas-tools/pull/138) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
