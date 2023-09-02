@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.15](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.15), today) - A better BGmi Docker image
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.1), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.0), 1 day ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5_4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5_4.5.5.10), 1 day ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.1), 1 day ago) - NAS媒体库管理工具
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.4.0](https://github.com/opennaslab/kubespider/releases/tag/v0.4.0), 2 days ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: update env](https://github.com/jxxghp/MoviePilot/pull/392) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat(docker): optimize init log output](https://github.com/hsuyelin/nas-tools/pull/163) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [fix: update curl](https://github.com/jxxghp/MoviePilot/pull/385) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: dev update](https://github.com/jxxghp/MoviePilot/pull/384) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [discussions](https://github.com/jxxghp/MoviePilot/pull/368) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [fix(ocr): 修复ocr地址错误](https://github.com/hsuyelin/nas-tools/pull/162) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
