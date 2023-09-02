@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (5 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (today)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (6 days ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (2 weeks ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (2 weeks ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (2 weeks ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.0), today)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5_4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5_4.5.5.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.1), today) - NAS媒体库管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.0), today)
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.4.0](https://github.com/opennaslab/kubespider/releases/tag/v0.4.0), 1 day ago) - A global resource download orchestration system, build your home download center. 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.1), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.0), 1 day ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5_4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5_4.5.5.10), 1 day ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.1), 1 day ago) - NAS媒体库管理工具
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.4.0](https://github.com/opennaslab/kubespider/releases/tag/v0.4.0), 2 days ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(ocr): 修复ocr地址错误](https://github.com/hsuyelin/nas-tools/pull/162) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
-- [update docker](https://github.com/jxxghp/MoviePilot-OCR/pull/2) on [jxxghp/MoviePilot-OCR](https://github.com/jxxghp/MoviePilot-OCR) (2 days ago)
-- [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
-- [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
-- [feat(docker): 添加debian镜像，优化镜像labels](https://github.com/hsuyelin/nas-tools/pull/140) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (2 days ago)
+- [discussions](https://github.com/jxxghp/MoviePilot/pull/368) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix(ocr): 修复ocr地址错误](https://github.com/hsuyelin/nas-tools/pull/162) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
+- [update docker](https://github.com/jxxghp/MoviePilot-OCR/pull/2) on [jxxghp/MoviePilot-OCR](https://github.com/jxxghp/MoviePilot-OCR) (3 days ago)
+- [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (3 days ago)
+- [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (3 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -53,7 +53,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (4 months ago)
+- [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (5 months ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (5 months ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (8 months ago)
 - [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (1 year ago)
