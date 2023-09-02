@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(docker): optimize init log output](https://github.com/hsuyelin/nas-tools/pull/163) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
+- [fix: update curl](https://github.com/jxxghp/MoviePilot/pull/385) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [feat: dev update](https://github.com/jxxghp/MoviePilot/pull/384) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [discussions](https://github.com/jxxghp/MoviePilot/pull/368) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(ocr): 修复ocr地址错误](https://github.com/hsuyelin/nas-tools/pull/162) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
-- [update docker](https://github.com/jxxghp/MoviePilot-OCR/pull/2) on [jxxghp/MoviePilot-OCR](https://github.com/jxxghp/MoviePilot-OCR) (3 days ago)
-- [fix(docker): 无法正常启动](https://github.com/hsuyelin/nas-tools/pull/144) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (3 days ago)
-- [fix(ci): 镜像tag没有版本号](https://github.com/hsuyelin/nas-tools/pull/141) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (3 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
