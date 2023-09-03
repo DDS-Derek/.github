@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.3.2](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.3.2), today) - NAS媒体库管理工具
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.3.3](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.3.3), today) - NAS媒体库管理工具
 - [alist-org/alist](https://github.com/alist-org/alist) ([v3.27.0](https://github.com/alist-org/alist/releases/tag/v3.27.0), today) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.3-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.3-1), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.2), today)
