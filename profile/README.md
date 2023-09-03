@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (2 weeks ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (2 weeks ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.3](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.3), today) - NAS媒体库管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.3), today)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.3.2](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.3.2), today) - NAS媒体库管理工具
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.27.0](https://github.com/alist-org/alist/releases/tag/v3.27.0), today) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.3-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.3-1), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.2), today)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5-4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5-4.5.5.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.17](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.17), today) - A better BGmi Docker image
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(package): #180](https://github.com/hsuyelin/nas-tools/pull/183) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (today)
 - [feat: 前端下载前判断版本号是否获取成功](https://github.com/jxxghp/MoviePilot/pull/397) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [fix: update env](https://github.com/jxxghp/MoviePilot/pull/392) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [feat(docker): optimize init log output](https://github.com/hsuyelin/nas-tools/pull/163) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 day ago)
 - [fix: update curl](https://github.com/jxxghp/MoviePilot/pull/385) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: dev update](https://github.com/jxxghp/MoviePilot/pull/384) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
