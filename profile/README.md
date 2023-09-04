@@ -25,10 +25,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.3), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.3), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.3](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.3), today) - NAS媒体库管理工具
 - [alist-org/alist](https://github.com/alist-org/alist) ([v3.27.0](https://github.com/alist-org/alist/releases/tag/v3.27.0), 1 day ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.2), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.2), 1 day ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.5.5-4.5.5.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.5.5-4.5.5.10), 1 day ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 
 #### 🔨 Latest Pull Requests I published
