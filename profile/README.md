@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [重启功能 ](https://github.com/jxxghp/MoviePilot/pull/510) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(package): #180](https://github.com/hsuyelin/nas-tools/pull/183) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (5 days ago)
 - [feat: 前端下载前判断版本号是否获取成功](https://github.com/jxxghp/MoviePilot/pull/397) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [fix: update env](https://github.com/jxxghp/MoviePilot/pull/392) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [feat(docker): optimize init log output](https://github.com/hsuyelin/nas-tools/pull/163) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (6 days ago)
-- [fix: update curl](https://github.com/jxxghp/MoviePilot/pull/385) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
