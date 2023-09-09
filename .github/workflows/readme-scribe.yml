@@ -3,7 +3,7 @@ name: readme-scribe
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/20 */4 * * *'
+    - cron: '0 */12 * * *'
   push:
     branches:
       - 'main'
