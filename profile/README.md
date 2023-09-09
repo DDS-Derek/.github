@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.6-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.6-1), 1 day ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.7-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.7-1), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.7), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.5](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.5), 1 day ago) - NAS媒体库管理工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.6](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.6), 1 day ago)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-beta.1](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-beta.1), 5 days ago) - AutoBangumi - 全自动追番工具
 - [alist-org/alist](https://github.com/alist-org/alist) ([v3.27.0](https://github.com/alist-org/alist/releases/tag/v3.27.0), 6 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: failed to obtain container id](https://github.com/jxxghp/MoviePilot/pull/520) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix: port conflict](https://github.com/jxxghp/MoviePilot/pull/518) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [重启功能 ](https://github.com/jxxghp/MoviePilot/pull/510) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [fix(package): #180](https://github.com/hsuyelin/nas-tools/pull/183) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (6 days ago)
 - [feat: 前端下载前判断版本号是否获取成功](https://github.com/jxxghp/MoviePilot/pull/397) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix: update env](https://github.com/jxxghp/MoviePilot/pull/392) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat(docker): optimize init log output](https://github.com/hsuyelin/nas-tools/pull/163) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
