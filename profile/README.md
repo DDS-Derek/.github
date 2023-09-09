@@ -17,15 +17,15 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) - NAS媒体库管理工具 (6 days ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) -  (3 weeks ago)
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.7-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.7-1), today)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.1.7-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.1.7-2), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.1.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.1.7), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.5](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.5), 1 day ago) - NAS媒体库管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-beta.1](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-beta.1), 5 days ago) - AutoBangumi - 全自动追番工具
