@@ -17,16 +17,16 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (today)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (today)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) - 支持PUID，PGID，Umask设置的Reader镜像 (today)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
+- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - 微信转发代理 (today)
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) - icret/EasyImages2.0 Docker 镜像 (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.5](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.5), today) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.7), today) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), today) - icret/EasyImages2.0 Docker 镜像
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.18](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.18), today) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.1), today)
@@ -34,11 +34,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [bump: action jobs version](https://github.com/jxxghp/MoviePilot/pull/600) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: 优化容器id获取](https://github.com/jxxghp/MoviePilot/pull/522) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [fix: failed to obtain container id](https://github.com/jxxghp/MoviePilot/pull/520) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [fix: port conflict](https://github.com/jxxghp/MoviePilot/pull/518) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [重启功能 ](https://github.com/jxxghp/MoviePilot/pull/510) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix(package): #180](https://github.com/hsuyelin/nas-tools/pull/183) on [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
