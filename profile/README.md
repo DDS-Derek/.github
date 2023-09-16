@@ -18,26 +18,26 @@
 
 
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (today)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
-- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - 微信转发代理 (today)
-- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) - icret/EasyImages2.0 Docker 镜像 (today)
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) - Stash Docker image that supports PUID, PGID, Umask settings (1 day ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 day ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) - icret/EasyImages2.0 Docker 镜像 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.7), today) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), today) - icret/EasyImages2.0 Docker 镜像
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.18](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.18), today) - A better BGmi Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.1), today)
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.10](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.10), today) - A better Jellyfin Docker image
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.8](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.8), 1 day ago) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), 1 day ago) - icret/EasyImages2.0 Docker 镜像
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.18](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.18), 1 day ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.1), 1 day ago)
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.10](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.10), 1 day ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [bump: action jobs version](https://github.com/jxxghp/MoviePilot/pull/600) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [feat: 优化容器id获取](https://github.com/jxxghp/MoviePilot/pull/522) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [fix: failed to obtain container id](https://github.com/jxxghp/MoviePilot/pull/520) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [fix: port conflict](https://github.com/jxxghp/MoviePilot/pull/518) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [bump: action jobs version](https://github.com/jxxghp/MoviePilot/pull/600) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: 优化容器id获取](https://github.com/jxxghp/MoviePilot/pull/522) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [fix: failed to obtain container id](https://github.com/jxxghp/MoviePilot/pull/520) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [fix: port conflict](https://github.com/jxxghp/MoviePilot/pull/518) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [重启功能 ](https://github.com/jxxghp/MoviePilot/pull/510) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
