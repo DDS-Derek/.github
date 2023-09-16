@@ -20,16 +20,16 @@
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (today)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (today)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 day ago)
-- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) - icret/EasyImages2.0 Docker 镜像 (1 day ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) - Stash Docker image that supports PUID, PGID, Umask settings (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.2), today)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.9](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.9), today) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), 1 day ago) - icret/EasyImages2.0 Docker 镜像
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.18](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.18), 1 day ago) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.1), 1 day ago)
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.10](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.10), 1 day ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
 
