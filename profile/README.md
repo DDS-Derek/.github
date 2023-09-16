@@ -18,15 +18,14 @@
 
 
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) - Stash Docker image that supports PUID, PGID, Umask settings (1 day ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 day ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 day ago)
+- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (today)
+- [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (today)
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 day ago)
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) - icret/EasyImages2.0 Docker 镜像 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.8](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.8), 1 day ago) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.9](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.9), today) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), 1 day ago) - icret/EasyImages2.0 Docker 镜像
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.18](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.18), 1 day ago) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.1), 1 day ago)
