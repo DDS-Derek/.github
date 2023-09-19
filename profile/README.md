@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-beta.5](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-beta.5), today) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.2), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.2), 1 day ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.9), 2 days ago) - NAS媒体库管理工具
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.9](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.9), 3 days ago) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r2](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r2), 4 days ago) - icret/EasyImages2.0 Docker 镜像
 
 #### 🔨 Latest Pull Requests I published
 
