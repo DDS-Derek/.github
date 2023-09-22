@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.3-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.3-1), 2 days ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.3-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.3-1), 2 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.4), today)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.4), today)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-beta.5](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-beta.5), 3 days ago) - AutoBangumi - 全自动追番工具
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.9), 5 days ago) - NAS媒体库管理工具
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.1.9](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.1.9), 6 days ago) - LinuxDir2HTML Docker 增强版
