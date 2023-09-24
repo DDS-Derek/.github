@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.5), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.5), today)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.0](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.0), today) - AutoBangumi - 全自动追番工具
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.11](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.11), today) - A better Jellyfin Docker image
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.19](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.19), 1 day ago) - A better BGmi Docker image
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.28.0](https://github.com/alist-org/alist/releases/tag/v3.28.0), 2 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.4), 2 days ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.4), 2 days ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.9), 1 week ago) - NAS媒体库管理工具
 
 #### 🔨 Latest Pull Requests I published
 
