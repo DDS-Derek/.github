@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (today)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 day ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (1 week ago)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
@@ -25,17 +25,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.19](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.19), today) - A better BGmi Docker image
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.28.0](https://github.com/alist-org/alist/releases/tag/v3.28.0), 1 day ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.4), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.4), 1 day ago)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1-beta.5](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1-beta.5), 4 days ago) - AutoBangumi - 全自动追番工具
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.19](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.19), 1 day ago) - A better BGmi Docker image
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.28.0](https://github.com/alist-org/alist/releases/tag/v3.28.0), 2 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.4), 2 days ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.4), 2 days ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.9](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.9), 1 week ago) - NAS媒体库管理工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [update node20 test](https://github.com/DDS-Derek/audiobookshelf-Docker/pull/9) on [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) (today)
-- [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/654) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [CI优化](https://github.com/lkw199711/smanga/pull/136) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
+- [update node20 test](https://github.com/DDS-Derek/audiobookshelf-Docker/pull/9) on [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) (1 day ago)
+- [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/654) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [CI优化](https://github.com/lkw199711/smanga/pull/136) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [bump: action jobs version](https://github.com/jxxghp/MoviePilot/pull/600) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat: 优化容器id获取](https://github.com/jxxghp/MoviePilot/pull/522) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
@@ -53,7 +53,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 weeks ago)
+- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (3 weeks ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (5 months ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (6 months ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (9 months ago)
