@@ -25,10 +25,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.6), today)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.6), today)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) ([v4.4.7](https://github.com/BGmi/BGmi/releases/tag/v4.4.7), 1 day ago) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.2](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.2), 1 day ago) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.5), 2 days ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.5), 3 days ago)
 - [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.11](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.11), 3 days ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
