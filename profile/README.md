@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (5 days ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (1 week ago)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.6](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.6), 1 day ago)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.6), 1 day ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.7-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.7-1), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.7), today)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.6-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.6-0.9.8-0.13.8), today)
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) ([v4.4.7](https://github.com/BGmi/BGmi/releases/tag/v4.4.7), 2 days ago) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.2](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.2), 2 days ago) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.11](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.11), 4 days ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/692) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [update node20 test](https://github.com/DDS-Derek/audiobookshelf-Docker/pull/9) on [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) (5 days ago)
 - [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/654) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [CI优化](https://github.com/lkw199711/smanga/pull/136) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (5 days ago)
 - [bump: action jobs version](https://github.com/jxxghp/MoviePilot/pull/600) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat: 优化容器id获取](https://github.com/jxxghp/MoviePilot/pull/522) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
