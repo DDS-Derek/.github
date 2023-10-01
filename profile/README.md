@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (today)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (2 days ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (3 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (2 weeks ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [功能改进增加选择类型](https://github.com/jxxghp/MoviePilot/pull/718) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: docker build use cache](https://github.com/jxxghp/MoviePilot/pull/703) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/692) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [update node20 test](https://github.com/DDS-Derek/audiobookshelf-Docker/pull/9) on [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) (1 week ago)
 - [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/654) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [CI优化](https://github.com/lkw199711/smanga/pull/136) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
