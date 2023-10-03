@@ -17,19 +17,19 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (2 days ago)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (4 days ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (5 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
-- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), today) - LinuxDir2HTML Docker 增强版
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.3](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.3), 3 days ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.7-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.7-2), 4 days ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.7-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.7-1), 4 days ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.6-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.6-0.9.8-0.13.8), 5 days ago)
-- [BGmi/BGmi](https://github.com/BGmi/BGmi) ([v4.4.7](https://github.com/BGmi/BGmi/releases/tag/v4.4.7), 1 week ago) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 
 #### 🔨 Latest Pull Requests I published
 
