@@ -17,25 +17,25 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (2 days ago)
-- [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (4 days ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (5 days ago)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (3 days ago)
+- [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (5 days ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (6 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), today) - LinuxDir2HTML Docker 增强版
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.3](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.3), 3 days ago) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.7-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.7-2), 4 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.7-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.7-1), 4 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.6-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.6-0.9.8-0.13.8), 5 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.8), today)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), 1 day ago) - LinuxDir2HTML Docker 增强版
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.3](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.3), 4 days ago) - AutoBangumi - 全自动追番工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.7-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.7-2), 5 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.6-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.6-0.9.8-0.13.8), 6 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [功能改进增加选择类型](https://github.com/jxxghp/MoviePilot/pull/718) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [feat: docker build use cache](https://github.com/jxxghp/MoviePilot/pull/703) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/692) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [功能改进增加选择类型](https://github.com/jxxghp/MoviePilot/pull/718) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [feat: docker build use cache](https://github.com/jxxghp/MoviePilot/pull/703) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/692) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [update node20 test](https://github.com/DDS-Derek/audiobookshelf-Docker/pull/9) on [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) (1 week ago)
 - [fix: container id retrieval error](https://github.com/jxxghp/MoviePilot/pull/654) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
