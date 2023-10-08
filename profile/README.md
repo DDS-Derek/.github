@@ -18,16 +18,16 @@
 
 
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (5 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) -  (1 week ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 week ago)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (1 week ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.9), 1 day ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.9), 1 day ago)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.7](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.7), 3 days ago) - AutoBangumi - 全自动追番工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.8](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.8), today) - AutoBangumi - 全自动追番工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.2.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.2.9-1), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.2.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.2.9), 1 day ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.20](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.20), 4 days ago) - A better BGmi Docker image
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), 5 days ago) - LinuxDir2HTML Docker 增强版
 
