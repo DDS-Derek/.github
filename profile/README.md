@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.0-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.0-1), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.0-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.0-1), 1 day ago)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.8](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.8), 3 days ago) - AutoBangumi - 全自动追番工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.9](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.9), today) - AutoBangumi - 全自动追番工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.1), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.1-1), today)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.20](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.20), 1 week ago) - A better BGmi Docker image
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), 1 week ago) - LinuxDir2HTML Docker 增强版
 
