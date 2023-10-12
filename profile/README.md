@@ -20,20 +20,20 @@
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 week ago)
 - [DDS-Derek/TTRSS-Docker](https://github.com/DDS-Derek/TTRSS-Docker) -  (1 week ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 week ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (2 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.9](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.9), today) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.1), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.1-1), today)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.9](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.9), 1 day ago) - AutoBangumi - 全自动追番工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.1), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.1-1), 1 day ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.20](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.20), 1 week ago) - A better BGmi Docker image
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.0](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.0), 1 week ago) - LinuxDir2HTML Docker 增强版
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor issue](https://github.com/ChineseSubFinder/ChineseSubFinder/pull/707) on [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) (6 days ago)
+- [Refactor issue](https://github.com/ChineseSubFinder/ChineseSubFinder/pull/707) on [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) (1 week ago)
 - [feat: add busybox-suid package](https://github.com/EstrellaXD/Auto_Bangumi/pull/517) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 week ago)
 - [feat: provide complete program installation package](https://github.com/EstrellaXD/Auto_Bangumi/pull/516) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 week ago)
 - [功能改进增加选择类型](https://github.com/jxxghp/MoviePilot/pull/718) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
