@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (today)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (1 day ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 day ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 day ago)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (2 days ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 days ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.3-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.3-1), today)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), today) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), today) - Stash Docker image that supports PUID, PGID, Umask settings
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.2-1), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.3-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.3-1), 1 day ago)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 1 day ago) - AutoBangumi - 全自动追番工具
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.2-1), 3 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.20](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.20), 1 week ago) - A better BGmi Docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: docker &amp; docker-compose &amp; local deploy](https://github.com/EstrellaXD/Auto_Bangumi/pull/574) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 day ago)
-- [feat: pip add cache](https://github.com/jxxghp/MoviePilot/pull/834) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: Local deployment files are provided requirements.txt](https://github.com/EstrellaXD/Auto_Bangumi/pull/572) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 day ago)
-- [Dev](https://github.com/lkw199711/smanga/pull/145) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
-- [Master](https://github.com/lkw199711/smanga/pull/144) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
+- [仿真环境控制](https://github.com/jxxghp/MoviePilot/pull/849) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [docs: docker &amp; docker-compose &amp; local deploy](https://github.com/EstrellaXD/Auto_Bangumi/pull/574) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (2 days ago)
+- [feat: pip add cache](https://github.com/jxxghp/MoviePilot/pull/834) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat: Local deployment files are provided requirements.txt](https://github.com/EstrellaXD/Auto_Bangumi/pull/572) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (2 days ago)
+- [Dev](https://github.com/lkw199711/smanga/pull/145) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
