@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.3-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.3-2), 1 day ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.3), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.4-1), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.4), today) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 2 days ago) - AutoBangumi - 全自动追番工具
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 2 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.20](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.20), 1 week ago) - A better BGmi Docker image
