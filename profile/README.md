@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.4-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.4-3), 1 day ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.5), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.5), today)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.10](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.10), 1 day ago) - NAS媒体库管理工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.4), 3 days ago) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 5 days ago) - AutoBangumi - 全自动追番工具
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 5 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
 
