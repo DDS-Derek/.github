@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 days ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (5 days ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (6 days ago)
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (6 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (6 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具 (1 week ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.5), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.5), today)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.10](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.10), 1 day ago) - NAS媒体库管理工具
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 5 days ago) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 5 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.5-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.5-1), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.5-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.5-1), 1 day ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.10](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.10), 2 days ago) - NAS媒体库管理工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 6 days ago) - AutoBangumi - 全自动追番工具
+- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 6 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
 
 #### 🔨 Latest Pull Requests I published
 
-- [仿真环境控制](https://github.com/jxxghp/MoviePilot/pull/849) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [docs: docker &amp; docker-compose &amp; local deploy](https://github.com/EstrellaXD/Auto_Bangumi/pull/574) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (6 days ago)
-- [feat: pip add cache](https://github.com/jxxghp/MoviePilot/pull/834) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [feat: Local deployment files are provided requirements.txt](https://github.com/EstrellaXD/Auto_Bangumi/pull/572) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (6 days ago)
-- [Dev](https://github.com/lkw199711/smanga/pull/145) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
+- [仿真环境控制](https://github.com/jxxghp/MoviePilot/pull/849) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [docs: docker &amp; docker-compose &amp; local deploy](https://github.com/EstrellaXD/Auto_Bangumi/pull/574) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 week ago)
+- [feat: pip add cache](https://github.com/jxxghp/MoviePilot/pull/834) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [feat: Local deployment files are provided requirements.txt](https://github.com/EstrellaXD/Auto_Bangumi/pull/572) on [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) (1 week ago)
+- [Dev](https://github.com/lkw199711/smanga/pull/145) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -55,7 +55,7 @@ IDE & Tools:
 
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 month ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (6 months ago)
-- [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (6 months ago)
+- [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (7 months ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (10 months ago)
 - [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (1 year ago)
 - [【Docker项目】简单明了的反向代理工具-nginxWebUI](https://blog.ddsrem.com/archives/nginxwebui) (1 year ago)
