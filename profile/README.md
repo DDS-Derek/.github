@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/transmission-Docker](https://github.com/DDS-Derek/transmission-Docker) - A better transmission docker image (today)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
-- [DDS-Derek/emby_pinyin-Docker](https://github.com/DDS-Derek/emby_pinyin-Docker) - hisune/emby_pinyin Docker Image (6 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (6 days ago)
-- [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (6 days ago)
+- [DDS-Derek/transmission-Docker](https://github.com/DDS-Derek/transmission-Docker) - A better transmission docker image (1 day ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
+- [DDS-Derek/emby_pinyin-Docker](https://github.com/DDS-Derek/emby_pinyin-Docker) - hisune/emby_pinyin Docker Image (1 week ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 week ago)
+- [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.7), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.7), 1 day ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.11](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.11), 3 days ago) - NAS媒体库管理工具
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 1 week ago) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 1 week ago) - Stash Docker image that supports PUID, PGID, Umask settings
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.21](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.21), 1 day ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.7), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.7), 2 days ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.11](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.11), 4 days ago) - NAS媒体库管理工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.10](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.10), 2 weeks ago) - AutoBangumi - 全自动追番工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: docker buildx cache](https://github.com/jxxghp/MoviePilot/pull/945) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [feat: emphasis mark](https://github.com/jxxghp/MoviePilot/pull/944) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [fix: running environment is required](https://github.com/jxxghp/MoviePilot/pull/943) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [feat: issue add operating environment](https://github.com/jxxghp/MoviePilot/pull/942) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
-- [仿真环境控制](https://github.com/jxxghp/MoviePilot/pull/849) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [fix: docker buildx cache](https://github.com/jxxghp/MoviePilot/pull/945) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [feat: emphasis mark](https://github.com/jxxghp/MoviePilot/pull/944) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [fix: running environment is required](https://github.com/jxxghp/MoviePilot/pull/943) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [feat: issue add operating environment](https://github.com/jxxghp/MoviePilot/pull/942) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
+- [仿真环境控制](https://github.com/jxxghp/MoviePilot/pull/849) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
