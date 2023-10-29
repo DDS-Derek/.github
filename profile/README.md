@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.7-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.7-1), today)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.1](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.1), 1 day ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.6](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.6), 1 day ago) - Adapted from P3TERX/Aria2-Pro Image
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.21](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.21), 2 days ago) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.7), 3 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.7), 3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [bump: python 3.11.6](https://github.com/jxxghp/MoviePilot/pull/1011) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [Version/3.5.8](https://github.com/lkw199711/smanga/pull/160) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [Dev to 3.5.8](https://github.com/lkw199711/smanga/pull/159) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [fix: docker buildx cache](https://github.com/jxxghp/MoviePilot/pull/945) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat: emphasis mark](https://github.com/jxxghp/MoviePilot/pull/944) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix: running environment is required](https://github.com/jxxghp/MoviePilot/pull/943) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
