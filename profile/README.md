@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.7-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.7-1), 2 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.8), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.8), today)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.1](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.1), 3 days ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.6](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.6), 3 days ago) - Adapted from P3TERX/Aria2-Pro Image
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.21](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.21), 4 days ago) - A better BGmi Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.7), 5 days ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
