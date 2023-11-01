@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.9-1), today) - MoviePilot前端
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.11](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.11), 1 day ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.8), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.8), 1 day ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.1](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.1), 4 days ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.6](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.6), 4 days ago) - Adapted from P3TERX/Aria2-Pro Image
 
