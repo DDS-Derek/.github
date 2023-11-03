@@ -25,19 +25,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.9-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.9-1), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.0-4.6.0.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.0-4.6.0.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.26.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.26.0), today) - A more easy-to-use filebrowser docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.3.9-2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.3.9-2), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.9-1), 1 day ago) - MoviePilot前端
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.11](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.11), 3 days ago) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.1](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.1), 6 days ago) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.6](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.6), 6 days ago) - Adapted from P3TERX/Aria2-Pro Image
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: optimize restart update](https://github.com/jxxghp/MoviePilot/pull/1052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [bump: python 3.11.6](https://github.com/jxxghp/MoviePilot/pull/1011) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [Version/3.5.8](https://github.com/lkw199711/smanga/pull/160) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
 - [Dev to 3.5.8](https://github.com/lkw199711/smanga/pull/159) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
 - [fix: docker buildx cache](https://github.com/jxxghp/MoviePilot/pull/945) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat: emphasis mark](https://github.com/jxxghp/MoviePilot/pull/944) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
