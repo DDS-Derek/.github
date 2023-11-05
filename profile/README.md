@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.3.9-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.3.9-2), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.0), today) - MoviePilot前端
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.22](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.22), 2 days ago) - A better BGmi Docker image
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.0-4.6.0.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.0-4.6.0.10), 2 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.26.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.26.0), 2 days ago) - A more easy-to-use filebrowser docker image
