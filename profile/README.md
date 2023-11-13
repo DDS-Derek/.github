@@ -25,9 +25,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2), today) - MoviePilot前端
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 3 days ago) - A better BGmi Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.1), 3 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.1), 3 days ago) - MoviePilot前端
 - [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 3 days ago) - A better Jellyfin Docker image
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.5.0](https://github.com/opennaslab/kubespider/releases/tag/v0.5.0), 6 days ago) - A global resource download orchestration system, build your home download center. 
 
