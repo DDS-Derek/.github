@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (2 days ago)
+- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (3 days ago)
 - [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 weeks ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2), today) - MoviePilot前端
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 3 days ago) - A better BGmi Docker image
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 3 days ago) - A better Jellyfin Docker image
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.5.0](https://github.com/opennaslab/kubespider/releases/tag/v0.5.0), 6 days ago) - A global resource download orchestration system, build your home download center. 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2-1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 4 days ago) - A better BGmi Docker image
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 4 days ago) - A better Jellyfin Docker image
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.5.0](https://github.com/opennaslab/kubespider/releases/tag/v0.5.0), 1 week ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
 
