@@ -17,7 +17,7 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (4 days ago)
+- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (5 days ago)
 - [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 weeks ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2-1), today) - NAS媒体库自动化管理工具
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.12](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.12), 1 day ago) - NAS媒体库管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2-1), 2 days ago) - MoviePilot前端
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 5 days ago) - A better BGmi Docker image
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 5 days ago) - A better Jellyfin Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2-1), 1 day ago) - NAS媒体库自动化管理工具
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.12](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.12), 2 days ago) - NAS媒体库管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2-1), 3 days ago) - MoviePilot前端
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 6 days ago) - A better BGmi Docker image
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 6 days ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
 
@@ -56,7 +56,7 @@ IDE & Tools:
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (7 months ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (7 months ago)
-- [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (10 months ago)
+- [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (11 months ago)
 - [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (1 year ago)
 - [【Docker项目】简单明了的反向代理工具-nginxWebUI](https://blog.ddsrem.com/archives/nginxwebui) (1 year ago)
 
