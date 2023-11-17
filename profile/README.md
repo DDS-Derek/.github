@@ -17,15 +17,15 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (today)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (6 days ago)
 - [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 weeks ago)
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
-- [DDS-Derek/transmission-Docker](https://github.com/DDS-Derek/transmission-Docker) - A better transmission docker image (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.2-1), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.3), today) - NAS媒体库自动化管理工具
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.12](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.12), 3 days ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2-1), 4 days ago) - MoviePilot前端
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 1 week ago) - A better BGmi Docker image
