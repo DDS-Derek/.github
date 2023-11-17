@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/header_.png)
 
 ```
-🆔 ID: DDSDerek | Derek | DDSRem | DDSTomo | Tomo
+🆔 ID: DDSRem | Derek
 ```
 
 ## 📫 REACH ME
