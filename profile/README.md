@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.3), today) - MoviePilot前端
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.9-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.9-0.9.8-0.13.8), today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.3), 2 days ago) - NAS媒体库自动化管理工具
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.12](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.12), 5 days ago) - NAS媒体库管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.2-1), 6 days ago) - MoviePilot前端
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 1 week ago) - A better BGmi Docker image
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.12](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.12), 1 week ago) - A better Jellyfin Docker image
 
 #### 🔨 Latest Pull Requests I published
 
