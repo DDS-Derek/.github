@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.4), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.5), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.4), 2 days ago) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.9-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.9-0.9.8-0.13.8), 3 days ago)
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.12](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.12), 1 week ago) - NAS媒体库管理工具
