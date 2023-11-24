@@ -17,19 +17,19 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (1 week ago)
-- [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (2 weeks ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [alist-org/alist](https://github.com/alist-org/alist) ([v3.29.0](https://github.com/alist-org/alist/releases/tag/v3.29.0), today) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.1-4.6.1.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.1-4.6.1.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.4-1), today) - MoviePilot前端
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.13](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.13), 1 day ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.5), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.4), 4 days ago) - MoviePilot前端
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.9-0.9.8-0.13.8](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.9-0.9.8-0.13.8), 5 days ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.24](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.24), 2 weeks ago) - A better BGmi Docker image
 
 #### 🔨 Latest Pull Requests I published
 
