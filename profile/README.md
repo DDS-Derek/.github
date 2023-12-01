@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (6 days ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 week ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 week ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.8), 1 day ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.7), 2 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.13](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.13), today) - A better Jellyfin Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.8), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.8), today) - MoviePilot前端
 - [alist-org/alist](https://github.com/alist-org/alist) ([v3.29.1](https://github.com/alist-org/alist/releases/tag/v3.29.1), 6 days ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.8](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.8), 6 days ago) - Adapted from P3TERX/Aria2-Pro Image
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.1-4.6.1.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.1-4.6.1.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: yt-dlp cannot be started by non-root users](https://github.com/opennaslab/kubespider/pull/377) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
 - [feat: optimize restart update](https://github.com/jxxghp/MoviePilot/pull/1052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
 - [bump: python 3.11.6](https://github.com/jxxghp/MoviePilot/pull/1011) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [Version/3.5.8](https://github.com/lkw199711/smanga/pull/160) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 month ago)
 - [Dev to 3.5.8](https://github.com/lkw199711/smanga/pull/159) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 month ago)
-- [fix: docker buildx cache](https://github.com/jxxghp/MoviePilot/pull/945) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
