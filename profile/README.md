@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (today)
+- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (today)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
 - [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (1 week ago)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 week ago)
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
+- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
 - [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 day ago)
 - [refactor: docker](https://github.com/EstrellaXD/DownloadAgent/pull/1) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 day ago)
 - [fix: yt-dlp cannot be started by non-root users](https://github.com/opennaslab/kubespider/pull/377) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
-- [feat: optimize restart update](https://github.com/jxxghp/MoviePilot/pull/1052) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
-- [bump: python 3.11.6](https://github.com/jxxghp/MoviePilot/pull/1011) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
