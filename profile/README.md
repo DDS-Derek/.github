@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
-- [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (today)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (today)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
-- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (1 week ago)
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 day ago)
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (1 day ago)
+- [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (1 day ago)
+- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.25](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.25), 1 day ago) - A better BGmi Docker image
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.13](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.13), 1 day ago) - A better Jellyfin Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.8), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.8), 1 day ago) - MoviePilot前端
-- [alist-org/alist](https://github.com/alist-org/alist) ([v3.29.1](https://github.com/alist-org/alist/releases/tag/v3.29.1), 1 week ago) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.7](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.7), 1 day ago) - A small AriaNg Docker image
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.25](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.25), 2 days ago) - A better BGmi Docker image
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.13](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.13), 2 days ago) - A better Jellyfin Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.8), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.8), 2 days ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
-- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
-- [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 day ago)
-- [refactor: docker](https://github.com/EstrellaXD/DownloadAgent/pull/1) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 day ago)
-- [fix: yt-dlp cannot be started by non-root users](https://github.com/opennaslab/kubespider/pull/377) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
+- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
+- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
+- [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (2 days ago)
+- [refactor: docker](https://github.com/EstrellaXD/DownloadAgent/pull/1) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (2 days ago)
+- [fix: yt-dlp cannot be started by non-root users](https://github.com/opennaslab/kubespider/pull/377) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
