@@ -17,19 +17,19 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 day ago)
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (1 day ago)
 - [DDS-Derek/Local-Builder](https://github.com/DDS-Derek/Local-Builder) - Local Builder (1 day ago)
 - [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.2-4.6.2.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.2-4.6.2.10), today) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.7](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.7), 1 day ago) - A small AriaNg Docker image
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.25](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.25), 2 days ago) - A better BGmi Docker image
 - [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) ([10.8.13](https://github.com/DDS-Derek/jellyfin-Docker/releases/tag/10.8.13), 2 days ago) - A better Jellyfin Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.8), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.8), 2 days ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
