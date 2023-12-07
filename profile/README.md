@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9-1), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.9), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9), 1 day ago) - MoviePilot前端
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.2-4.6.2.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.2-4.6.2.10), 4 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.7](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.7), 5 days ago) - A small AriaNg Docker image
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.25](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.25), 6 days ago) - A better BGmi Docker image
