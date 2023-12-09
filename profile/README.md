@@ -17,27 +17,27 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (today)
-- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (today)
-- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (today)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (today)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (5 days ago)
+- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (1 day ago)
+- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (1 day ago)
+- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (1 day ago)
+- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9-1), 1 day ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.9), 2 days ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.2-4.6.2.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.2-4.6.2.10), 5 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.7](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.7), 6 days ago) - A small AriaNg Docker image
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.25](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.25), 1 week ago) - A better BGmi Docker image
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r3](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r3), 1 day ago) - icret/EasyImages2.0 Docker 镜像
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9-1), 2 days ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.9), 3 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.2-4.6.2.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.2-4.6.2.10), 6 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.7](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.7), 1 week ago) - A small AriaNg Docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (6 days ago)
-- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (6 days ago)
+- [fix: yutto log output exception](https://github.com/opennaslab/kubespider/pull/382) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
+- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
+- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
 - [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 week ago)
 - [refactor: docker](https://github.com/EstrellaXD/DownloadAgent/pull/1) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 week ago)
-- [fix: yt-dlp cannot be started by non-root users](https://github.com/opennaslab/kubespider/pull/377) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
