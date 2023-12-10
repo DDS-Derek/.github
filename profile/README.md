@@ -17,23 +17,23 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (today)
-- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (1 day ago)
-- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (1 day ago)
-- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (1 day ago)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 day ago)
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 day ago)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 day ago)
+- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.3](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.3), today) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.26](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.26), today) - A better BGmi Docker image
-- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r3](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r3), 1 day ago) - icret/EasyImages2.0 Docker 镜像
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9-1), 2 days ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.4.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.4.9), 3 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.26.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.26.0), 1 day ago) - A more easy-to-use filebrowser docker image
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.3](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.3), 1 day ago) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.26](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.26), 1 day ago) - A better BGmi Docker image
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r3](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r3), 2 days ago) - icret/EasyImages2.0 Docker 镜像
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.4.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.4.9-1), 3 days ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: yutto log output exception](https://github.com/opennaslab/kubespider/pull/382) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 day ago)
+- [fix: yutto log output exception](https://github.com/opennaslab/kubespider/pull/382) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (2 days ago)
 - [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
 - [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
 - [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (1 week ago)
