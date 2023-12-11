@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.0), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.1), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.0), 1 day ago) - MoviePilot前端
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 1 day ago) - Stash Docker image that supports PUID, PGID, Umask settings
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.26.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.26.0), 2 days ago) - A more easy-to-use filebrowser docker image
