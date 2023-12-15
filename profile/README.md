@@ -1,4 +1,4 @@
-# 👋 Hi there I'm Derek. 
+# 👋 Hi there I'm DDSRem. 
 
 ![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/header_.png)
 
@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.27](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.27), today) - A better BGmi Docker image
-- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.9](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.9), today) - Adapted from P3TERX/Aria2-Pro Image
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r4](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r4), today) - icret/EasyImages2.0 Docker 镜像
+- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([1.0.0](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/1.0.0), today) - Adapted from P3TERX/Aria2-Pro Image
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.29](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.29), today) - A better BGmi Docker image
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.1), 2 days ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.1-1), 3 days ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 5 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
 
 #### 🔨 Latest Pull Requests I published
 
