@@ -17,19 +17,19 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
-- [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (5 days ago)
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) - Stash Docker image that supports PUID, PGID, Umask settings (5 days ago)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (6 days ago)
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (6 days ago)
+- [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (5 days ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.27](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.27), today) - A better BGmi Docker image
+- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([0.0.9](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/0.0.9), today) - Adapted from P3TERX/Aria2-Pro Image
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.1), 2 days ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.1-1), 3 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/stash-Docker](https://github.com/DDS-Derek/stash-Docker) ([v0.23.1](https://github.com/DDS-Derek/stash-Docker/releases/tag/v0.23.1), 5 days ago) - Stash Docker image that supports PUID, PGID, Umask settings
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.26.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.26.0), 6 days ago) - A more easy-to-use filebrowser docker image
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.3](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.3), 6 days ago) - LinuxDir2HTML Docker 增强版
 
 #### 🔨 Latest Pull Requests I published
 
