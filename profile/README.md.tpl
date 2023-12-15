@@ -1,4 +1,4 @@
-# 👋 Hi there I'm Derek. 
+# 👋 Hi there I'm DDSRem. 
 
 ![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/header_.png)
 
