@@ -17,15 +17,15 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (today)
 - [DDS-Derek/emby_pinyin-Docker](https://github.com/DDS-Derek/emby_pinyin-Docker) - hisune/emby_pinyin Docker Image (1 day ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (1 day ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
-- [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.2), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.3), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.2), 1 day ago) - MoviePilot前端
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.2-4.6.2.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.2-4.6.2.10), 1 day ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.3-r4](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.3-r4), 2 days ago) - icret/EasyImages2.0 Docker 镜像
@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: misjudgment of yutto path environment variable](https://github.com/opennaslab/kubespider/pull/387) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (today)
 - [fix: yutto log output exception](https://github.com/opennaslab/kubespider/pull/382) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
 - [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (2 weeks ago)
 - [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (2 weeks ago)
 - [CI done](https://github.com/EstrellaXD/DownloadAgent/pull/2) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (2 weeks ago)
-- [refactor: docker](https://github.com/EstrellaXD/DownloadAgent/pull/1) on [EstrellaXD/DownloadAgent](https://github.com/EstrellaXD/DownloadAgent) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
