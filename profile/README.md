@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 week ago)
 - [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (1 week ago)
 - [DDS-Derek/emby_pinyin-Docker](https://github.com/DDS-Derek/emby_pinyin-Docker) - hisune/emby_pinyin Docker Image (1 week ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
