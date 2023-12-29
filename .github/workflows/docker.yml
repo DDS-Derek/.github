@@ -28,7 +28,7 @@ jobs:
 
       -
         run: |
-          git clone -b tini https://github.com/DDS-Derek/Auto_Bangumi.git test
+          git clone -b docker https://github.com/DDS-Derek/talebook.git test
 
       -
         name: Login DockerHub
