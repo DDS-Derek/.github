@@ -17,15 +17,15 @@
 #### 🌱 My latest projects
 
 
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (6 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) - A global resource download orchestration system, build your home download center.  (1 week ago)
-- [DDS-Derek/Tachidesk-Docker](https://github.com/DDS-Derek/Tachidesk-Docker) - A better tachidesk docker container (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.5), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.5), today) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.9-0.9.8_2-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.9-0.9.8_2-0.13.8_2), 1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.4), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.30](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.30), 1 week ago) - A better BGmi Docker image
@@ -33,11 +33,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Optimization docker](https://github.com/amtoaer/bili-sync/pull/17) on [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) (today)
+- [fix: docker meta username error](https://github.com/amtoaer/bili-sync/pull/16) on [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) (today)
+- [feat: support arm64 architecture](https://github.com/amtoaer/bili-sync/pull/15) on [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) (today)
 - [feat: add PUID PGID settings](https://github.com/talebook/talebook/pull/341) on [talebook/talebook](https://github.com/talebook/talebook) (1 day ago)
 - [fix: misjudgment of yutto path environment variable](https://github.com/opennaslab/kubespider/pull/387) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (1 week ago)
-- [fix: yutto log output exception](https://github.com/opennaslab/kubespider/pull/382) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (3 weeks ago)
-- [feat: support yutto download provider](https://github.com/opennaslab/kubespider/pull/380) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (4 weeks ago)
-- [Yutto downloader](https://github.com/opennaslab/kubespider/pull/379) on [opennaslab/kubespider](https://github.com/opennaslab/kubespider) (4 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
