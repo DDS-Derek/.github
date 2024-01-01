@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.6), today) - MoviePilot前端
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.7](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.7), today) - 支持PUID，PGID，Umask设置的Reader镜像
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.5-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.5-1), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.5), 2 days ago) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.2.9-0.9.8_2-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.2.9-0.9.8_2-0.13.8_2), 3 days ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.30](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.30), 1 week ago) - A better BGmi Docker image
-- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) ([1.0.2](https://github.com/DDS-Derek/Aria2-Pro-Docker/releases/tag/1.0.2), 1 week ago) - Adapted from P3TERX/Aria2-Pro Image
 
 #### 🔨 Latest Pull Requests I published
 
