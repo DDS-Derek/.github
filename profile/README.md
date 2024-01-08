@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.7-2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.7-2), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.7-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.7-3), 2 days ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.5.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.5.8), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.8), today) - MoviePilot前端
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.27.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.27.0), 3 days ago) - A more easy-to-use filebrowser docker image
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.3](https://github.com/amtoaer/bili-sync/releases/tag/1.1.3), 4 days ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.7](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.7), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
