@@ -17,15 +17,15 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (today)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (today)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) - A better Jellyfin Docker image (today)
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (1 day ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 day ago)
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) - A better Jellyfin Docker image (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.4](https://github.com/amtoaer/bili-sync/releases/tag/1.1.4), 6 days ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.4](https://github.com/amtoaer/bili-sync/releases/tag/1.1.4), 1 week ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.3-4.6.3.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.3-4.6.3.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.0), 1 week ago) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.12](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.12), 2 weeks ago) - AutoBangumi - 全自动追番工具
@@ -33,8 +33,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: rootfs move to base](https://github.com/xylplm/media-saber-base/pull/4) on [xylplm/media-saber-base](https://github.com/xylplm/media-saber-base) (today)
-- [fix: bug](https://github.com/xylplm/media-saber-base/pull/3) on [xylplm/media-saber-base](https://github.com/xylplm/media-saber-base) (5 days ago)
+- [feat: rootfs move to base](https://github.com/xylplm/media-saber-base/pull/4) on [xylplm/media-saber-base](https://github.com/xylplm/media-saber-base) (1 day ago)
 
 ## 🔧 ENVIRONMENT
 OS:
