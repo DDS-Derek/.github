@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (1 day ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 day ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (1 day ago)
-- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) - A better Jellyfin Docker image (1 day ago)
+- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (1 day ago)
+- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
