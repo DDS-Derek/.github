@@ -17,11 +17,11 @@
 #### 🌱 My latest projects
 
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (today)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (2 days ago)
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) - A better BGmi Docker image (2 days ago)
+- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (2 days ago)
 - [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (2 days ago)
-- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (2 days ago)
+- [DDS-Derek/jellyfin-Docker](https://github.com/DDS-Derek/jellyfin-Docker) - A better Jellyfin Docker image (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,12 +49,12 @@ IDE & Tools:
 
 ## 📜BLOG
 
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (today)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (4 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (9 months ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (10 months ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (1 year ago)
 - [【Linux系统折腾】SnapRAID：一个目录级别的存储方案](https://blog.ddsrem.com/archives/snapraid) (2 years ago)
-- [【Docker项目】简单明了的反向代理工具-nginxWebUI](https://blog.ddsrem.com/archives/nginxwebui) (2 years ago)
 
 ## 📈 STATS
 
