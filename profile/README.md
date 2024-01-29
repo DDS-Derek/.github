@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.9), today) - MoviePilot前端
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.4](https://github.com/amtoaer/bili-sync/releases/tag/1.1.4), 1 week ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.3-4.6.3.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.3-4.6.3.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.0), 1 week ago) - NAS媒体库自动化管理工具
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.12](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.12), 2 weeks ago) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.5.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.5.8), 3 weeks ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
