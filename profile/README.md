@@ -25,11 +25,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.2), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.1-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.1-1), today) - MoviePilot前端
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.14](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.14), 3 days ago) - NAS媒体库管理工具
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.0](https://github.com/opennaslab/kubespider/releases/tag/v0.6.0), 3 days ago) - A global resource download orchestration system, build your home download center. 
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.6](https://github.com/amtoaer/bili-sync/releases/tag/1.1.6), 1 week ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.1), 1 week ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
