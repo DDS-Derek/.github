@@ -15,7 +15,6 @@
 ## 💼 WORKING
 
 #### 🌱 My latest projects
-
 {{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
