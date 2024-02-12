@@ -14,6 +14,9 @@
 
 ## 💼 WORKING
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSDerek"></img>
+
 #### 🌱 My latest projects
 {{range recentContributions 6}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
