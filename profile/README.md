@@ -66,4 +66,6 @@ IDE & Tools:
 
 ![](https://count.getloli.com/get/@DDS-Derek.github.readme)
 
+<img src="https://raw.githubusercontent.com/DDS-Derek/.github/main/github-metrics.svg" alt="Metrics" width="100%">
+
 ![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/Bottom_down.svg)
