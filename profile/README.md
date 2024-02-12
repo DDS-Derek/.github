@@ -64,6 +64,6 @@ IDE & Tools:
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
 
-![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/Bottom_down.svg)
-
 ![](https://count.getloli.com/get/@DDS-Derek.github.readme)
+
+![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/Bottom_down.svg)
