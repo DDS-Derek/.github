@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.4), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.4-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.4-3), today) - MoviePilot前端
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.4](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.4), 3 days ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.31](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.31), 3 days ago) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.3), 4 days ago) - NAS媒体库自动化管理工具
