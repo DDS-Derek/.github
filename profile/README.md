@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (5 days ago)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (6 days ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.4-1), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.4), 2 days ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.4](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.4), 5 days ago) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.31](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.31), 5 days ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.4-1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.4), 3 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.4](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.4), 6 days ago) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.4.31](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.4.31), 6 days ago) - A better BGmi Docker image
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.4](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.4), 1 week ago) - icret/EasyImages2.0 Docker 镜像
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (5 days ago)
+- [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (6 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -51,7 +51,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2 weeks ago)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (3 weeks ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (5 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (10 months ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (11 months ago)
