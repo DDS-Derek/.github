@@ -51,9 +51,9 @@ IDE & Tools:
 
 ## 📈 STATS
 
-![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=ocean_dark)
 
-![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=radical)
 
 ![](https://count.getloli.com/get/@DDS-Derek.github.readme)
 
