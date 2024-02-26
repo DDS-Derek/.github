@@ -19,24 +19,24 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (5 days ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (5 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (4 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (6 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.7-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.7-3), today) - MoviePilot前端
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.7](https://github.com/amtoaer/bili-sync/releases/tag/1.1.7), 1 day ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.7), 2 days ago) - NAS媒体库自动化管理工具
-- [ngfchl/NewPtools](https://github.com/ngfchl/NewPtools) ([2024-02-21](https://github.com/ngfchl/NewPtools/releases/tag/2024-02-21), 4 days ago)
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.4](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.4), 1 week ago) - LinuxDir2HTML Docker 增强版
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.6.7-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.6.7-3), 1 day ago) - MoviePilot前端
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.7](https://github.com/amtoaer/bili-sync/releases/tag/1.1.7), 2 days ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.6.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.6.7), 3 days ago) - NAS媒体库自动化管理工具
+- [ngfchl/NewPtools](https://github.com/ngfchl/NewPtools) ([2024-02-21](https://github.com/ngfchl/NewPtools/releases/tag/2024-02-21), 5 days ago)
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.4](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.4), 2 weeks ago) - LinuxDir2HTML Docker 增强版
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (1 week ago)
+- [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
