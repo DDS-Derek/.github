@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.0), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.0-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.0-1), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.0), 1 day ago) - MoviePilot前端
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.8](https://github.com/amtoaer/bili-sync/releases/tag/1.1.8), 1 week ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
 - [ngfchl/NewPtools](https://github.com/ngfchl/NewPtools) ([2024-02-21](https://github.com/ngfchl/NewPtools/releases/tag/2024-02-21), 2 weeks ago)
