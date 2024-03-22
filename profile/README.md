@@ -19,24 +19,24 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (5 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (5 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (5 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (6 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (6 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.4), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.4), 2 days ago) - MoviePilot前端
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 4 days ago) - A global resource download orchestration system, build your home download center. 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.4-1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.4), 3 days ago) - NAS媒体库自动化管理工具
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 5 days ago) - A global resource download orchestration system, build your home download center. 
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.15](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.15), 1 week ago) - NAS媒体库管理工具
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([1.1.8](https://github.com/amtoaer/bili-sync/releases/tag/1.1.8), 3 weeks ago) - 基于 python asyncio 编写的 bilibili 收藏夹同步下载工具。
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (1 month ago)
 
