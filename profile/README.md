@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.5), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.6-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.6-1), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.4-1), 3 days ago) - MoviePilot前端
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 1 week ago) - A global resource download orchestration system, build your home download center. 
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.15](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.15), 1 week ago) - NAS媒体库管理工具
