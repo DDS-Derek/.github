@@ -27,9 +27,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.8), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.8](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.8), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.8](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.8), today) - MoviePilot前端
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 2 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.7), 4 days ago) - NAS媒体库自动化管理工具
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 2 weeks ago) - A global resource download orchestration system, build your home download center. 
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.3.15](https://github.com/hsuyelin/nas-tools/releases/tag/v3.3.15), 2 weeks ago) - NAS媒体库管理工具
 
