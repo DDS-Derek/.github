@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.9), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.9](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.9), today) - MoviePilot前端
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.28.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.28.0), 3 days ago) - A more easy-to-use filebrowser docker image
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.7.9-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.7.9-1), today) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.9), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.28.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.28.0), 4 days ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 2 weeks ago) - A global resource download orchestration system, build your home download center. 
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.6.2](https://github.com/opennaslab/kubespider/releases/tag/v0.6.2), 3 weeks ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
 
 - [feat: install the plug-in pip extension in advance](https://github.com/jxxghp/MoviePilot/pull/1789) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [docs: update &amp; provide free server](https://github.com/easychen/CookieCloud/pull/58) on [easychen/CookieCloud](https://github.com/easychen/CookieCloud) (1 month ago)
