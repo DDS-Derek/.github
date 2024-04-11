@@ -27,9 +27,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.0), today) - MoviePilot前端
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.13](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.13), today) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.7.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.7.9), 3 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.0), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.0), 1 day ago) - MoviePilot前端
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.13](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.13), 1 day ago) - AutoBangumi - 全自动追番工具
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.28.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.28.0), 1 week ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 
