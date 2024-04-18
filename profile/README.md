@@ -19,23 +19,23 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (4 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (4 days ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.1-1), 1 day ago) - NAS媒体库自动化管理工具
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.0), 5 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2-1), today) - MoviePilot前端
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 1 day ago) - NAS媒体库管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.1-1), 2 days ago) - NAS媒体库自动化管理工具
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.0), 6 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.13](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.13), 1 week ago) - AutoBangumi - 全自动追番工具
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.28.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.28.0), 2 weeks ago) - A more easy-to-use filebrowser docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (4 days ago)
+- [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (5 days ago)
 - [feat: install the plug-in pip extension in advance](https://github.com/jxxghp/MoviePilot/pull/1789) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
