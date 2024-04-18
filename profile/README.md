@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2-1), today) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2), today) - MoviePilot前端
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 1 day ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.1-1), 2 days ago) - NAS媒体库自动化管理工具
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.0), 6 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
