@@ -27,11 +27,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.2), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2), today) - MoviePilot前端
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), today) - A better BGmi Docker image
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 2 days ago) - NAS媒体库管理工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.1-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.1-1), 3 days ago) - NAS媒体库自动化管理工具
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.0), 1 week ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.13](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.13), 1 week ago) - AutoBangumi - 全自动追番工具
 
 #### 🔨 Latest Pull Requests I published
 
