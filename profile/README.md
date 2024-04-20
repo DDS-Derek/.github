@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: docker build failed](https://github.com/ledccn/iyuuplus-dev/pull/3) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (today)
 - [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (1 week ago)
 - [feat: install the plug-in pip extension in advance](https://github.com/jxxghp/MoviePilot/pull/1789) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
-- [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 months ago)
 
 ## 🔧 ENVIRONMENT
 OS:
