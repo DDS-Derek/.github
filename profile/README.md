@@ -19,27 +19,27 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (4 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (5 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (5 days ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (5 days ago)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (3 weeks ago)
+- [DDS-Derek/IYUUPlus-Docker](https://github.com/DDS-Derek/IYUUPlus-Docker) -  (today)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (6 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.2), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2), today) - MoviePilot前端
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), today) - A better BGmi Docker image
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 2 days ago) - NAS媒体库管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2-1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.2), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), 1 day ago) - A better BGmi Docker image
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 3 days ago) - NAS媒体库管理工具
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.0), 1 week ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 
 #### 🔨 Latest Pull Requests I published
 
-- [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (6 days ago)
-- [feat: install the plug-in pip extension in advance](https://github.com/jxxghp/MoviePilot/pull/1789) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (1 week ago)
+- [feat: install the plug-in pip extension in advance](https://github.com/jxxghp/MoviePilot/pull/1789) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [fix cloudflared](https://github.com/jxxghp/MoviePilot/pull/1697) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix: plugin directory backup failed](https://github.com/jxxghp/MoviePilot/pull/1570) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
-- [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
+- [feat: startup and update script optimization](https://github.com/jxxghp/MoviePilot/pull/1503) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 months ago)
 
 ## 🔧 ENVIRONMENT
 OS:
