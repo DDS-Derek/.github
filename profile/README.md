@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2-1), 3 days ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.2-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.2-2), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.2), 3 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), 3 days ago) - A better BGmi Docker image
 - [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.0](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.0), 5 days ago) - NAS媒体库管理工具
