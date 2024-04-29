@@ -19,25 +19,25 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (2 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 days ago)
+- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (3 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
 - [DDS-Derek/IYUUPlus-Docker](https://github.com/DDS-Derek/IYUUPlus-Docker) -  (1 week ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.0-0.9.8_2-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.0-0.9.8_2-0.13.8_2), 1 day ago)
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.4), 1 day ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.4), 1 day ago) - MoviePilot前端
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.2), 2 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.5), 1 day ago) - MoviePilot前端
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.3](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.3), 1 day ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.0-0.9.8_2-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.0-0.9.8_2-0.13.8_2), 2 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.4), 2 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), 1 week ago) - A better BGmi Docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (1 day ago)
-- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (2 days ago)
-- [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (2 days ago)
+- [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (2 days ago)
+- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (3 days ago)
+- [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (3 days ago)
 - [fix: docker build failed](https://github.com/ledccn/iyuuplus-dev/pull/3) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 week ago)
 - [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (2 weeks ago)
 
