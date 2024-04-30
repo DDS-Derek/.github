@@ -19,16 +19,16 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
 - [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (4 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (4 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDS-Derek/IYUUPlus-Docker](https://github.com/DDS-Derek/IYUUPlus-Docker) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.5-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.5-1), today) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.5-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.5-1), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.5), 1 day ago) - NAS媒体库自动化管理工具
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.4](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.4), 1 day ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.0-0.9.8_2-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.0-0.9.8_2-0.13.8_2), 3 days ago)
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.0](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.0), 1 week ago) - A better BGmi Docker image
