@@ -19,25 +19,25 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (5 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
+- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.8](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.8), today) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.29.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.29.0), 1 day ago) - A more easy-to-use filebrowser docker image
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.5-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.5-2), 1 day ago) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.5-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.5-1), 1 day ago) - NAS媒体库自动化管理工具
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.4](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.4), 2 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.0-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.0-0.9.8_3-0.13.8_2), 1 day ago)
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.8](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.8), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.29.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.29.0), 2 days ago) - A more easy-to-use filebrowser docker image
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.8.5-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.8.5-2), 2 days ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.8.5-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.8.5-1), 2 days ago) - NAS媒体库自动化管理工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (4 days ago)
-- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (5 days ago)
-- [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (5 days ago)
+- [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (5 days ago)
+- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (6 days ago)
+- [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (6 days ago)
 - [fix: docker build failed](https://github.com/ledccn/iyuuplus-dev/pull/3) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 week ago)
 - [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (2 weeks ago)
 
