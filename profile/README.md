@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [bump: ca-certificates version to bookworm](https://github.com/jxxghp/MoviePilot/pull/2009) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (1 week ago)
 - [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (1 week ago)
 - [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (1 week ago)
 - [fix: docker build failed](https://github.com/ledccn/iyuuplus-dev/pull/3) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (2 weeks ago)
-- [Jellyfin installation](https://github.com/DDS-Derek/xiaoya-alist/pull/47) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
