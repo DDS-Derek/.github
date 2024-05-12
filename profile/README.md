@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [bump: debian bullseye to bookworm](https://github.com/jxxghp/MoviePilot/pull/2056) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: docker file structure organization](https://github.com/ledccn/iyuuplus-dev/pull/37) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 day ago)
 - [bump: ca-certificates version to bookworm](https://github.com/jxxghp/MoviePilot/pull/2009) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (2 weeks ago)
 - [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (2 weeks ago)
-- [fix: requirements file path error](https://github.com/Akimio521/MoviePilot-Plugins/pull/1) on [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
