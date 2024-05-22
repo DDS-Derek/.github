@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (5 days ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 weeks ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 weeks ago)
@@ -27,9 +27,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.0](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.0), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.0), 1 day ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 4 days ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.0-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.0-1), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.0](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.0), 2 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 5 days ago)
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.6](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.6), 2 weeks ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.1](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.1), 2 weeks ago) - A better BGmi Docker image
 
