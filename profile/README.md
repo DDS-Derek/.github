@@ -19,17 +19,17 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (6 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 weeks ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 weeks ago)
-- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (3 weeks ago)
+- [Akimio521/MoviePilot-Plugins](https://github.com/Akimio521/MoviePilot-Plugins) - 第三方库 (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.1-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.1-beta), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.1-beta](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.1-beta), today) - MoviePilot前端
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 6 days ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.1-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.1-beta), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.1-beta](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.1-beta), 1 day ago) - MoviePilot前端
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 1 week ago)
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.6](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.6), 2 weeks ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.1](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.1), 3 weeks ago) - A better BGmi Docker image
 
@@ -39,7 +39,7 @@
 - [feat: docker file structure organization](https://github.com/ledccn/iyuuplus-dev/pull/37) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 week ago)
 - [bump: ca-certificates version to bookworm](https://github.com/jxxghp/MoviePilot/pull/2009) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [feat: support `armv7` `arm64`](https://github.com/PBH-BTN/PeerBanHelper/pull/86) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (3 weeks ago)
-- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (3 weeks ago)
+- [Docker partial optimization](https://github.com/PBH-BTN/PeerBanHelper/pull/81) on [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) (4 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
