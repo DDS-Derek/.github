@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.2-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.2-2), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.2), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.2-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.2-1), 2 days ago) - MoviePilot前端
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 4 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.5](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.5), 5 days ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 1 week ago)
