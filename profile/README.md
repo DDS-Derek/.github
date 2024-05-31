@@ -19,19 +19,19 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (6 days ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (6 days ago)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 week ago)
-- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (1 week ago)
 - [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.0), today)
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.14](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.14), today) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.2-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.2-3), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.2), 4 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 6 days ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.5](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.5), 1 week ago) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.1-0.9.8_3-0.13.8_2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.1-0.9.8_3-0.13.8_2), 2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
