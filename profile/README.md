@@ -20,26 +20,26 @@
 #### 🌱 My latest projects
 
 - [ailg666/xy](https://github.com/ailg666/xy) - 折腾小雅过程中自己玩的一些脚本 (1 day ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 week ago)
-- [DDS-Derek/emby_pinyin-Docker](https://github.com/DDS-Derek/emby_pinyin-Docker) - hisune/emby_pinyin Docker Image (1 week ago)
+- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.7](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.7), today) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.0), 1 day ago)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.14](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.14), 1 day ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.2-3](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.2-3), 1 day ago) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.2](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.2), 5 days ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) ([4.6.4-4.6.4.10](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker/releases/tag/4.6.4-4.6.4.10), 1 week ago) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (today)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 day ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 week ago)
 - [bump: debian bullseye to bookworm](https://github.com/jxxghp/MoviePilot/pull/2056) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [feat: docker file structure organization](https://github.com/ledccn/iyuuplus-dev/pull/37) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (3 weeks ago)
-- [bump: ca-certificates version to bookworm](https://github.com/jxxghp/MoviePilot/pull/2009) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
