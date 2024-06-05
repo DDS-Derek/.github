@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.3-4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.3-4), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.4-beta](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.4-beta), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.3](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.3), 2 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.1), 3 days ago)
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.0.7](https://github.com/amtoaer/bili-sync/releases/tag/v2.0.7), 4 days ago) - 基于 rust tokio 编写的 bilibili 收藏夹同步下载工具。
