@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (6 days ago)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 week ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (2 weeks ago)
 - [bump: debian bullseye to bookworm](https://github.com/jxxghp/MoviePilot/pull/2056) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
-- [feat: docker file structure organization](https://github.com/ledccn/iyuuplus-dev/pull/37) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
