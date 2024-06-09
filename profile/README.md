@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (6 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
 - [ailg666/xy](https://github.com/ailg666/xy) - 折腾小雅过程中自己玩的一些脚本 (1 week ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 week ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), today) - 支持PUID，PGID，Umask设置的Reader镜像
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.4), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.4), today) - MoviePilot前端
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.2](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.2), 2 days ago) - A better BGmi Docker image
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.1), 6 days ago)
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 1 day ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.4](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.4), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.4](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.4), 1 day ago) - MoviePilot前端
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.2](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.2), 3 days ago) - A better BGmi Docker image
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.1), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (1 week ago)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 week ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (2 weeks ago)
