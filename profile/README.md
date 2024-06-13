@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.4-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.4-1), 2 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.4-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.4-1), 2 days ago) - MoviePilot前端
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 4 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.2](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.2), 6 days ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.4-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.4-2), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.4-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.4-1), 3 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 5 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.2](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.2), 1 week ago) - A better BGmi Docker image
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.1), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
-- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
+- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (1 week ago)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 week ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (2 weeks ago)
@@ -60,7 +60,7 @@ IDE & Tools:
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (9 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (1 year ago)
-- [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (1 year ago)
+- [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (2 years ago)
 
 ## 📈 STATS
 
