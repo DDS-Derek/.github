@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
 - [ailg666/xy](https://github.com/ailg666/xy) - 折腾小雅过程中自己玩的一些脚本 (2 weeks ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 weeks ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
@@ -28,10 +28,10 @@
 #### 🔭 Latest releases I've contributed to
 
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.5](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.5), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.4-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.4-1), 4 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.3-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.3-3.2), today)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.5), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 6 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.2](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.2), 1 week ago) - A better BGmi Docker image
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.2-3.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.2-3.1), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
