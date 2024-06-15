@@ -19,16 +19,16 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (today)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [ailg666/xy](https://github.com/ailg666/xy) - 折腾小雅过程中自己玩的一些脚本 (2 weeks ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 weeks ago)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (3 weeks ago)
-- [DDS-Derek/Composerize-Builder](https://github.com/DDS-Derek/Composerize-Builder) - A better Composerize Docker image  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.6-beta](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.6-beta), today) - MoviePilot前端
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.5](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.5), 1 day ago) - icret/EasyImages2.0 Docker 镜像
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.5-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.5-1), 1 day ago) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.3-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.3-3.2), 1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.5](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.5), 1 day ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
