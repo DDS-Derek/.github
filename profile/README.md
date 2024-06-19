@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.6](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.6), 3 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.6](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.6), 3 days ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.7](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.7), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.7](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.7), today) - MoviePilot前端
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.5](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.5), 5 days ago) - icret/EasyImages2.0 Docker 镜像
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.3-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.3-3.2), 5 days ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
