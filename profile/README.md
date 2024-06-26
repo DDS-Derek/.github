@@ -19,16 +19,16 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (3 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
-- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (3 days ago)
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (4 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (4 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (4 days ago)
+- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.8-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.8-1), today) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.8-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.8-2), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.8-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.8-1), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.8-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.8-2), 2 days ago) - MoviePilot前端
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.5](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.5), 1 week ago) - icret/EasyImages2.0 Docker 镜像
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.3-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.3-3.2), 1 week ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.9](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.9), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
@@ -56,7 +56,7 @@ IDE & Tools:
 ## 📜BLOG
 
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (1 month ago)
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (4 months ago)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (5 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (9 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (1 year ago)
