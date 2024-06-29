@@ -19,25 +19,25 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (6 days ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (6 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
-- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (6 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
+- [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.5-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.5-3.2), today)
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.10), today) - MoviePilot前端
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.9), 2 days ago) - NAS媒体库自动化管理工具
-- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.7.0](https://github.com/opennaslab/kubespider/releases/tag/v0.7.0), 2 days ago) - A global resource download orchestration system, build your home download center. 
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.5-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.5-3.2), 1 day ago)
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.10), 1 day ago) - MoviePilot前端
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.9](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.9), 3 days ago) - NAS媒体库自动化管理工具
+- [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.7.0](https://github.com/opennaslab/kubespider/releases/tag/v0.7.0), 3 days ago) - A global resource download orchestration system, build your home download center. 
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.5](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.5), 2 weeks ago) - icret/EasyImages2.0 Docker 镜像
 
 #### 🔨 Latest Pull Requests I published
 
 - [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
-- [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (3 weeks ago)
+- [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (4 weeks ago)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (4 weeks ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 month ago)
 
@@ -57,7 +57,7 @@ IDE & Tools:
 
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (1 month ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (5 months ago)
-- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (9 months ago)
+- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (10 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (1 year ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (2 years ago)
