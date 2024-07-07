@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.0), 1 day ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.10-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.10-1), 5 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.10), 5 days ago) - MoviePilot前端
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.0), 2 days ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.10-1](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.10-1), 6 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.10](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.10), 6 days ago) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.5-3.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.5-3.2), 1 week ago)
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.7.0](https://github.com/opennaslab/kubespider/releases/tag/v0.7.0), 1 week ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
-- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
+- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
+- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (1 month ago)
 - [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 month ago)
 - [bump: alpine 3.19 to 3.20](https://github.com/ledccn/iyuuplus-dev/pull/55) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 month ago)
