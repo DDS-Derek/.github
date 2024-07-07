@@ -19,11 +19,11 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
-- [DDS-Derek/mdserver-web-Docker](https://github.com/DDS-Derek/mdserver-web-Docker) - mdserver-web docker image (2 weeks ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 weeks ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
-- [DDS-Derek/Aria2-Pro-Docker](https://github.com/DDS-Derek/Aria2-Pro-Docker) - Adapted from P3TERX/Aria2-Pro Image (2 weeks ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 
 #### 🔭 Latest releases I've contributed to
 
