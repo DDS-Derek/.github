@@ -19,11 +19,11 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [DDS-Derek/runlike-Docker](https://github.com/DDS-Derek/runlike-Docker) -  (1 day ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (today)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: directory mounting supports bind and volume modes](https://github.com/lavie/runlike/pull/115) on [lavie/runlike](https://github.com/lavie/runlike) (today)
 - [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2536) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2284) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix: suggestions and errors pointed out by shellcheck](https://github.com/monlor/docker-xiaoya/pull/12) on [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) (1 month ago)
-- [Fix sh checker](https://github.com/ailg666/xy/pull/1) on [ailg666/xy](https://github.com/ailg666/xy) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
