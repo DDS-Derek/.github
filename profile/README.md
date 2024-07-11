@@ -27,10 +27,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.1](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.1), today) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.11](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.11), 2 days ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.11](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.11), 2 days ago) - MoviePilot前端
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.5-4.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.5-4.0), 3 days ago)
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.0](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.0), 6 days ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 - [opennaslab/kubespider](https://github.com/opennaslab/kubespider) ([v0.7.0](https://github.com/opennaslab/kubespider/releases/tag/v0.7.0), 2 weeks ago) - A global resource download orchestration system, build your home download center. 
 
 #### 🔨 Latest Pull Requests I published
