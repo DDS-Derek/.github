@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: restart update failed and auto restore backup](https://github.com/jxxghp/MoviePilot/pull/2597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix: cannot use the cgo features needed by go-sqlite3](https://github.com/simon-ding/polaris/pull/2) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (today)
+- [feat: refactor ci](https://github.com/simon-ding/polaris/pull/1) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (today)
 - [fix: display variable is not effective](https://github.com/jxxghp/MoviePilot/pull/2585) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [fix: display id conflict](https://github.com/jxxghp/MoviePilot/pull/2584) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [feat: directory mounting supports bind and volume modes](https://github.com/lavie/runlike/pull/115) on [lavie/runlike](https://github.com/lavie/runlike) (1 week ago)
-- [feat: refactor docker http proxy](https://github.com/jxxghp/MoviePilot/pull/2536) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [Revert &#34;feat: refactor docker http proxy&#34;](https://github.com/jxxghp/MoviePilot/pull/2288) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
