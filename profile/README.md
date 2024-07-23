@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat: restart update failed and auto restore backup](https://github.com/jxxghp/MoviePilot/pull/2597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [fix: cannot use the cgo features needed by go-sqlite3](https://github.com/simon-ding/polaris/pull/2) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (1 day ago)
 - [feat: refactor ci](https://github.com/simon-ding/polaris/pull/1) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (1 day ago)
 - [fix: display variable is not effective](https://github.com/jxxghp/MoviePilot/pull/2585) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
-- [fix: display id conflict](https://github.com/jxxghp/MoviePilot/pull/2584) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
