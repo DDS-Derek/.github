@@ -19,27 +19,27 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 days ago)
-- [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (4 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
+- [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (5 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 2 days ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.6-6.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.6-6.0), 2 days ago)
-- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.1), 5 days ago) - NAS媒体库管理工具
+- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 days ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.6-6.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.6-6.0), 3 days ago)
+- [hsuyelin/nas-tools](https://github.com/hsuyelin/nas-tools) ([v3.4.1](https://github.com/hsuyelin/nas-tools/releases/tag/v3.4.1), 6 days ago) - NAS媒体库管理工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.12](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.12), 1 week ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.12](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.12), 1 week ago) - MoviePilot前端
 
 #### 🔨 Latest Pull Requests I published
 
-- [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
-- [feat: restart update failed and auto restore backup](https://github.com/jxxghp/MoviePilot/pull/2597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [fix: cannot use the cgo features needed by go-sqlite3](https://github.com/simon-ding/polaris/pull/2) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (1 day ago)
-- [feat: refactor ci](https://github.com/simon-ding/polaris/pull/1) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (1 day ago)
-- [fix: display variable is not effective](https://github.com/jxxghp/MoviePilot/pull/2585) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat: restart update failed and auto restore backup](https://github.com/jxxghp/MoviePilot/pull/2597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [fix: cannot use the cgo features needed by go-sqlite3](https://github.com/simon-ding/polaris/pull/2) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (2 days ago)
+- [feat: refactor ci](https://github.com/simon-ding/polaris/pull/1) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (2 days ago)
+- [fix: display variable is not effective](https://github.com/jxxghp/MoviePilot/pull/2585) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -55,7 +55,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (1 month ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (5 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (10 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
