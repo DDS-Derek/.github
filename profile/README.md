@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (1 day ago)
 - [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat: restart update failed and auto restore backup](https://github.com/jxxghp/MoviePilot/pull/2597) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [fix: cannot use the cgo features needed by go-sqlite3](https://github.com/simon-ding/polaris/pull/2) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (2 weeks ago)
-- [feat: refactor ci](https://github.com/simon-ding/polaris/pull/1) on [simon-ding/polaris](https://github.com/simon-ding/polaris) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
