@@ -19,26 +19,26 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 weeks ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) ([quark_cookie](https://github.com/DDS-Derek/xiaoya-alist/releases/tag/quark_cookie), today) - 小雅Alist的相关周边
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.13), 1 week ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.13](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.13), 1 week ago) - MoviePilot前端
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 2 weeks ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.6-6.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.6-6.0), 2 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (1 day ago)
-- [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (2 days ago)
+- [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (2 days ago)
+- [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (3 days ago)
 - [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
