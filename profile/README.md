@@ -19,8 +19,8 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 weeks ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (3 weeks ago)
@@ -35,10 +35,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (2 days ago)
-- [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
-- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (3 days ago)
+- [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (3 days ago)
+- [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (4 days ago)
 - [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
