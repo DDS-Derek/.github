@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 weeks ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14), today) - MoviePilot前端
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.13](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.13), 1 week ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.13](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.13), 1 week ago) - MoviePilot前端
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 2 weeks ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.6-6.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.6-6.0), 2 weeks ago)
