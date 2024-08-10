@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(sites): PT时间签到失败 &amp; PT时间魔力值统计](https://github.com/jxxghp/MoviePilot-Plugins/pull/441) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (today)
 - [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (5 days ago)
 - [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (6 days ago)
-- [Docker restart update better logging output](https://github.com/jxxghp/MoviePilot/pull/2599) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
