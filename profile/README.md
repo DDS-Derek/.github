@@ -27,11 +27,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.3](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.3), today) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.14](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.14), 2 days ago) - NAS媒体库自动化管理工具
 - [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14-1), 3 days ago) - MoviePilot前端
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 weeks ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([4.3.6-6.0](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/4.3.6-6.0), 3 weeks ago)
 
 #### 🔨 Latest Pull Requests I published
 
