@@ -27,9 +27,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14-2), today) - MoviePilot前端
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.3](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.3), 1 day ago) - A better BGmi Docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.14](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.14), 3 days ago) - NAS媒体库自动化管理工具
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14-1](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14-1), 4 days ago) - MoviePilot前端
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 weeks ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 
