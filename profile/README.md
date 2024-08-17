@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (3 days ago)
+- [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (4 days ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 weeks ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14-2), today) - MoviePilot前端
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.3](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.3), 1 day ago) - A better BGmi Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.14](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.14), 3 days ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) ([v1.9.14-2](https://github.com/jxxghp/MoviePilot-Frontend/releases/tag/v1.9.14-2), 1 day ago) - MoviePilot前端
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.3](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.3), 2 days ago) - A better BGmi Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.14](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.14), 4 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 3 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 weeks ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(sites): PT时间签到失败 &amp; PT时间魔力值统计](https://github.com/jxxghp/MoviePilot-Plugins/pull/441) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (6 days ago)
+- [fix(sites): PT时间签到失败 &amp; PT时间魔力值统计](https://github.com/jxxghp/MoviePilot-Plugins/pull/441) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 week ago)
 - [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (1 week ago)
 - [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
