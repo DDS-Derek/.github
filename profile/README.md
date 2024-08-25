@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 days ago)
 - [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (1 week ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
@@ -39,7 +39,7 @@
 - [Revert &#34;chore(deps): update github artifact actions to v4 (major)&#34;](https://github.com/DDS-Derek/xiaoya-alist/pull/177) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (2 weeks ago)
 - [feat: optimize proxy log output](https://github.com/jxxghp/MoviePilot/pull/2630) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [镜像源代理自动降级](https://github.com/jxxghp/MoviePilot/pull/2626) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
-- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (2 weeks ago)
+- [Release CI](https://github.com/Koileo/ticket_for_allcpp/pull/3) on [Koileo/ticket_for_allcpp](https://github.com/Koileo/ticket_for_allcpp) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
@@ -56,7 +56,7 @@ IDE & Tools:
 ## 📜BLOG
 
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (3 months ago)
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (6 months ago)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (7 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (11 months ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (1 year ago)
