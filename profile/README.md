@@ -19,17 +19,17 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 day ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), today) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 1 week ago) - A more easy-to-use filebrowser docker image
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.15](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.15), 1 week ago) - NAS媒体库自动化管理工具
-- [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.3](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.3), 3 weeks ago) - A better BGmi Docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 1 month ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 1 month ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 
