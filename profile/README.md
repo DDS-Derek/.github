@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/2) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/1) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
-- [feat: directory mounting supports bind and volume modes](https://github.com/lavie/runlike/pull/122) on [lavie/runlike](https://github.com/lavie/runlike) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
