@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (1 week ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 4 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 5 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 2 weeks ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 3 weeks ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 1 month ago) - 支持PUID，PGID，Umask设置的Reader镜像
@@ -35,7 +35,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/2) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
