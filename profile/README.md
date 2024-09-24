@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (1 week ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.15](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.15), today) - AutoBangumi - 全自动追番工具
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 5 days ago) - NAS媒体库自动化管理工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.15](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.15), 1 day ago) - AutoBangumi - 全自动追番工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 6 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 2 weeks ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 3 weeks ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 1 month ago) - 支持PUID，PGID，Umask设置的Reader镜像
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/2) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
@@ -56,7 +56,7 @@ IDE & Tools:
 ## 📜BLOG
 
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (4 months ago)
-- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (7 months ago)
+- [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (8 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 year ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (1 year ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (2 years ago)
