@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.15](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.15), 1 day ago) - AutoBangumi - 全自动追番工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.16](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.16), today) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 6 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 2 weeks ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 3 weeks ago) - A more easy-to-use filebrowser docker image
