@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (1 week ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/2) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
-- [fix](https://github.com/xylplm/media-saber-public/pull/1) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
