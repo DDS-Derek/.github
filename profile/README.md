@@ -19,11 +19,11 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
-- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (2 weeks ago)
-- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
-- [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (3 weeks ago)
+- [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
+- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
