@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) -  (2 weeks ago)
 - [DDS-Derek/smanga-base-Builder](https://github.com/DDS-Derek/smanga-base-Builder) - smanga docker base (2 weeks ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
@@ -27,15 +27,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.18](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.18), 3 days ago) - AutoBangumi - 全自动追番工具
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) ([3.1.18](https://github.com/EstrellaXD/Auto_Bangumi/releases/tag/3.1.18), 4 days ago) - AutoBangumi - 全自动追番工具
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v1.9.17](https://github.com/jxxghp/MoviePilot/releases/tag/v1.9.17), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 3 weeks ago) - A better BGmi Docker image
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 4 weeks ago) - A more easy-to-use filebrowser docker image
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 1 month ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 2 months ago) - 支持PUID，PGID，Umask设置的Reader镜像
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
 - [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (2 weeks ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (2 weeks ago)
