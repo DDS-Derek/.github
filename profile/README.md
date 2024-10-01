@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (2 weeks ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/3) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (2 weeks ago)
-- [fix](https://github.com/xylplm/media-saber-public/pull/2) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
