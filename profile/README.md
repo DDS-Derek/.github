@@ -35,8 +35,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix](https://github.com/xylplm/media-saber-public/pull/4) on [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) (1 month ago)
@@ -55,7 +55,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (4 months ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (5 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (8 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 year ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
