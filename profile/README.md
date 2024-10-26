@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
 - [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
-- [feat(playwright): add proxy support for chromium installation](https://github.com/jxxghp/MoviePilot/pull/2760) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
