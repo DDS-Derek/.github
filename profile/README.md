@@ -27,16 +27,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.0-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.0-beta), 6 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.0-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.0-beta), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 1 month ago) - A better BGmi Docker image
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 1 month ago) - A more easy-to-use filebrowser docker image
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 3 months ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 months ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
-- [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (4 days ago)
+- [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
 - [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
 - [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
