@@ -35,10 +35,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (4 days ago)
-- [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (5 days ago)
+- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (5 days ago)
+- [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
+- [chore: update code logic optimization](https://github.com/jxxghp/MoviePilot/pull/2795) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [chore: use static compilation of aria2c](https://github.com/jxxghp/MoviePilot/pull/2781) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
