@@ -19,27 +19,27 @@
 
 #### 🌱 My latest projects
 
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (today)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 weeks ago)
 - [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (3 weeks ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 weeks ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.6.9](https://github.com/lkw199711/smanga/releases/tag/3.6.9), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.0-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.0-beta), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 1 month ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.10](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.10), 3 months ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) ([v2.1.2](https://github.com/amtoaer/bili-sync/releases/tag/v2.1.2), 3 months ago) - 由 Rust &amp; Tokio 驱动的哔哩哔哩同步工具
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
+- [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
+- [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
 - [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/202) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
-- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
-- [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
