@@ -35,9 +35,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/202) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (today)
-- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (6 days ago)
+- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
+- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/202) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
+- [Refactoring docker](https://github.com/lkw199711/smanga/pull/201) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 - [fix(docker): nginx directory permission issue](https://github.com/jxxghp/MoviePilot/pull/2939) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat: docker built-in v2 compatible plugin](https://github.com/jxxghp/MoviePilot/pull/2869) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 
