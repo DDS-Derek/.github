@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.6.9](https://github.com/lkw199711/smanga/releases/tag/3.6.9), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.0-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.0-beta), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 1 month ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(autobackup): cookies folder backup failed](https://github.com/thsrite/MoviePilot-Plugins/pull/104) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (today)
 - [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
 - [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/202) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
