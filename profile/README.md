@@ -19,15 +19,15 @@
 
 #### 🌱 My latest projects
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 days ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (3 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 weeks ago)
 - [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 weeks ago)
 - [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (3 weeks ago)
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (4 weeks ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 2 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.0-beta](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.0-beta), 1 week ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 1 month ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(autobackup): cookies folder backup failed](https://github.com/thsrite/MoviePilot-Plugins/pull/104) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (1 day ago)
-- [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
-- [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
-- [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
+- [fix(autobackup): cookies folder backup failed](https://github.com/thsrite/MoviePilot-Plugins/pull/104) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (2 days ago)
+- [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
+- [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
+- [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 days ago)
+- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
