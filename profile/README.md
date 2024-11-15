@@ -39,7 +39,7 @@
 - [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 - [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
 - [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 week ago)
+- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
