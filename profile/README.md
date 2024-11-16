@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.4), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.5), today) - NAS媒体库自动化管理工具
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 1 week ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 2 months ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(update): clear tmp directory causes data loss](https://github.com/jxxghp/MoviePilot/pull/3122) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [feat(docker): nginx `client_max_body_size` configuration](https://github.com/jxxghp/MoviePilot/pull/3121) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(autobackup): cookies folder backup failed](https://github.com/thsrite/MoviePilot-Plugins/pull/104) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (1 week ago)
 - [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 weeks ago)
 - [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 weeks ago)
-- [Build Windows CI](https://github.com/lkw199711/smanga/pull/204) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 weeks ago)
-- [fix(docker): adjust the permission setting logic](https://github.com/lkw199711/smanga/pull/203) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
