@@ -35,11 +35,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (today)
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(update): clear tmp directory causes data loss](https://github.com/jxxghp/MoviePilot/pull/3122) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat(docker): nginx `client_max_body_size` configuration](https://github.com/jxxghp/MoviePilot/pull/3121) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
-- [fix(autobackup): cookies folder backup failed](https://github.com/thsrite/MoviePilot-Plugins/pull/104) on [thsrite/MoviePilot-Plugins](https://github.com/thsrite/MoviePilot-Plugins) (2 weeks ago)
-- [Fix](https://github.com/lkw199711/smanga/pull/206) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 weeks ago)
-- [Fix](https://github.com/lkw199711/smanga/pull/205) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
