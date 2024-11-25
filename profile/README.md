@@ -19,15 +19,15 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (today)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (3 weeks ago)
 - [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (1 month ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.0.9](https://github.com/jxxghp/MoviePilot/releases/tag/v2.0.9), 2 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.0), today) - NAS媒体库自动化管理工具
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 3 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/BGmi-All-In-One-Docker](https://github.com/DDS-Derek/BGmi-All-In-One-Docker) ([v4.5.4](https://github.com/DDS-Derek/BGmi-All-In-One-Docker/releases/tag/v4.5.4), 2 months ago) - A better BGmi Docker image
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.31.1](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.31.1), 2 months ago) - A more easy-to-use filebrowser docker image
@@ -35,9 +35,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 day ago)
-- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (2 days ago)
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix(update): clear tmp directory causes data loss](https://github.com/jxxghp/MoviePilot/pull/3122) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 - [feat(docker): nginx `client_max_body_size` configuration](https://github.com/jxxghp/MoviePilot/pull/3121) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
