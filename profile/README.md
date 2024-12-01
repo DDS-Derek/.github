@@ -20,9 +20,9 @@
 #### 🌱 My latest projects
 
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (today)
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
