@@ -23,16 +23,16 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
-- [DDS-Derek/wxchat-Docker](https://github.com/DDS-Derek/wxchat-Docker) - MoviePilot 微信转发代理 (1 week ago)
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (2 weeks ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 weeks ago)
+- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) - A more easy-to-use filebrowser docker image (1 day ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 day ago)
+- [DDS-Derek/lunasea-Docker](https://github.com/DDS-Derek/lunasea-Docker) - lunasea web docker image. (1 day ago)
+- [DDS-Derek/alist-tvbox-script](https://github.com/DDS-Derek/alist-tvbox-script) - alist-tvbox 自用脚本 (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 2 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.2), 1 week ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.3](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.3), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 3 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.1-6.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.1-6.1), 1 week ago)
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.8](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.8), 2 weeks ago) - A small AriaNg Docker image
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 1 month ago) - A simple manga browser 一款docker直装的漫画浏览器
