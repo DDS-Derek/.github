@@ -23,25 +23,25 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
-- [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (today)
-- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (today)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 days ago)
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
+- [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (1 day ago)
+- [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 day ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (4 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.5), today) - NAS媒体库自动化管理工具
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 5 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.5), 1 day ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 6 days ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.1-6.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.1-6.1), 2 weeks ago)
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.8](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.8), 2 weeks ago) - A small AriaNg Docker image
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.8](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.8), 3 weeks ago) - A small AriaNg Docker image
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.7.0](https://github.com/lkw199711/smanga/releases/tag/3.7.0), 1 month ago) - A simple manga browser 一款docker直装的漫画浏览器
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (3 weeks ago)
-- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
-- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (4 weeks ago)
+- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
+- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 weeks ago)
 - [fix(update): clear tmp directory causes data loss](https://github.com/jxxghp/MoviePilot/pull/3122) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [feat(docker): nginx `client_max_body_size` configuration](https://github.com/jxxghp/MoviePilot/pull/3121) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
@@ -59,7 +59,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (6 months ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (7 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (10 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 year ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
