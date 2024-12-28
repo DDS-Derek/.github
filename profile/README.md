@@ -23,8 +23,8 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) - LinuxDir2HTML Docker 增强版 (1 week ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 week ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 week ago)
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Python code formatting](https://github.com/DDS-Derek/xiaoya-alist/pull/260) on [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) (today)
 - [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 month ago)
 - [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [fix(update): clear tmp directory causes data loss](https://github.com/jxxghp/MoviePilot/pull/3122) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
-- [feat(docker): nginx `client_max_body_size` configuration](https://github.com/jxxghp/MoviePilot/pull/3121) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
