@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.7), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.7), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.5-7.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.5-7.1), 1 day ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.6](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.6), 1 week ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
