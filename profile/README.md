@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (5 days ago)
 - [DDS-Derek/nginxWebUI-Docker](https://github.com/DDS-Derek/nginxWebUI-Docker) - nginxWebUI docker image (6 days ago)
-- [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [DDS-Derek/runlike-Docker](https://github.com/DDS-Derek/runlike-Docker) -  (6 days ago)
 - [DDS-Derek/smb-mount-Docker](https://github.com/DDS-Derek/smb-mount-Docker) - SMB mount Docker image (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.7), 4 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.8](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.8), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.5-7.1](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.5-7.1), 5 days ago)
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.6](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.6), 2 weeks ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.12](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.12), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
