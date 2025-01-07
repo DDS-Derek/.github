@@ -23,11 +23,11 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) - 小雅容器代理工具，确保 UA 统一 (2 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 days ago)
+- [907739769/alist-strm](https://github.com/907739769/alist-strm) - 将alist的视频文件生成媒体播放设备可播放的strm文件 (today)
+- [DDS-Derek/p115-Docker](https://github.com/DDS-Derek/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (today)
 - [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (2 days ago)
-- [xiaoyaDev/.github](https://github.com/xiaoyaDev/.github) -  (2 days ago)
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (2 days ago)
+- [xiaoyaDev/.github](https://github.com/xiaoyaDev/.github) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: support PUID PGID UMASK env](https://github.com/907739769/alist-strm/pull/8) on [907739769/alist-strm](https://github.com/907739769/alist-strm) (today)
+- [feat: support `PUID` `PGID` `UMASK` env](https://github.com/907739769/alist-strm/pull/7) on [907739769/alist-strm](https://github.com/907739769/alist-strm) (today)
 - [bump: alpine 3.20 to 3.21](https://github.com/ledccn/iyuuplus-dev/pull/153) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (1 week ago)
 - [Python code formatting](https://github.com/xiaoyaDev/xiaoya-alist/pull/260) on [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) (1 week ago)
 - [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot-Frontend/pull/246) on [jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend) (1 month ago)
-- [chore(issue): add rfc template](https://github.com/jxxghp/MoviePilot/pull/3218) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
-- [fix(update): useless tmp directory when not updated](https://github.com/jxxghp/MoviePilot/pull/3217) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
