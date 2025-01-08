@@ -26,8 +26,8 @@
 - [907739769/alist-strm](https://github.com/907739769/alist-strm) - 将alist的视频文件生成媒体播放设备可播放的strm文件 (1 day ago)
 - [DDS-Derek/p115-Docker](https://github.com/DDS-Derek/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (1 day ago)
 - [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (3 days ago)
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (3 days ago)
 - [xiaoyaDev/.github](https://github.com/xiaoyaDev/.github) -  (3 days ago)
+- [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) - 小雅容器代理工具，确保 UA 统一 (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
