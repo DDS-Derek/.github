@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [907739769/alist-strm](https://github.com/907739769/alist-strm) - 将alist的视频文件生成媒体播放设备可播放的strm文件 (2 days ago)
 - [DDS-Derek/p115-Docker](https://github.com/DDS-Derek/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (2 days ago)
 - [xiaoyaDev/xiaoyahelper](https://github.com/xiaoyaDev/xiaoyahelper) - 一劳永逸的小雅阿里云盘转存清理工具 (4 days ago)
-- [xiaoyaDev/.github](https://github.com/xiaoyaDev/.github) -  (4 days ago)
 - [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) - 小雅容器代理工具，确保 UA 统一 (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.1.9-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.1.9-1), 3 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.0), today) - NAS媒体库自动化管理工具
 - [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) ([v1.0.2](https://github.com/xiaoyaDev/xiaoya-proxy/releases/tag/v1.0.2), 3 days ago) - 小雅容器代理工具，确保 UA 统一
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.0](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.0), 3 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.5-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.5-7.2), 4 days ago)
