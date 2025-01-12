@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (today)
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it. (1 day ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
-- [DDS-Derek/p115-Docker](https://github.com/DDS-Derek/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (5 days ago)
 - [907739769/alist-strm](https://github.com/907739769/alist-strm) - 将alist的视频文件生成媒体播放设备可播放的strm文件 (5 days ago)
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (1 week ago)
+- [DDS-Derek/p115-Docker](https://github.com/DDS-Derek/p115-Docker) - 集成了多个115网盘工具的Docker镜像 (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([DEV_202501121652](https://github.com/xylplm/media-saber-public/releases/tag/DEV_202501121652), today)
 - [lavie/runlike](https://github.com/lavie/runlike) ([1.5.0](https://github.com/lavie/runlike/releases/tag/1.5.0), 1 day ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.0), 3 days ago) - NAS媒体库自动化管理工具
 - [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) ([v1.0.2](https://github.com/xiaoyaDev/xiaoya-proxy/releases/tag/v1.0.2), 6 days ago) - 小雅容器代理工具，确保 UA 统一
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.0](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.0), 6 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.5-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.5-7.2), 1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
