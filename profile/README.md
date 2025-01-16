@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.1), 3 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.2), today) - NAS媒体库自动化管理工具
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([DEV_202501121652](https://github.com/xylplm/media-saber-public/releases/tag/DEV_202501121652), 4 days ago)
 - [lavie/runlike](https://github.com/lavie/runlike) ([1.5.0](https://github.com/lavie/runlike/releases/tag/1.5.0), 5 days ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) ([v1.0.2](https://github.com/xiaoyaDev/xiaoya-proxy/releases/tag/v1.0.2), 1 week ago) - 小雅容器代理工具，确保 UA 统一
