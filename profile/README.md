@@ -23,26 +23,26 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (today)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 day ago)
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) - A small AriaNg Docker image (1 day ago)
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (2 days ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 week ago)
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it. (1 week ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), today) - A small AriaNg Docker image
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.2), 3 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 1 day ago) - A small AriaNg Docker image
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.2), 4 days ago) - NAS媒体库自动化管理工具
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([DEV_202501121652](https://github.com/xylplm/media-saber-public/releases/tag/DEV_202501121652), 1 week ago)
 - [lavie/runlike](https://github.com/lavie/runlike) ([1.5.0](https://github.com/lavie/runlike/releases/tag/1.5.0), 1 week ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
-- [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) ([v1.0.2](https://github.com/xiaoyaDev/xiaoya-proxy/releases/tag/v1.0.2), 1 week ago) - 小雅容器代理工具，确保 UA 统一
+- [xiaoyaDev/xiaoya-proxy](https://github.com/xiaoyaDev/xiaoya-proxy) ([v1.0.2](https://github.com/xiaoyaDev/xiaoya-proxy/releases/tag/v1.0.2), 2 weeks ago) - 小雅容器代理工具，确保 UA 统一
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add redis server](https://github.com/lkw199711/smanga/pull/210) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (1 day ago)
+- [feat: add redis server](https://github.com/lkw199711/smanga/pull/210) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 days ago)
 - [feat: support PUID PGID UMASK env](https://github.com/907739769/alist-strm/pull/8) on [907739769/alist-strm](https://github.com/907739769/alist-strm) (1 week ago)
 - [feat: support `PUID` `PGID` `UMASK` env](https://github.com/907739769/alist-strm/pull/7) on [907739769/alist-strm](https://github.com/907739769/alist-strm) (1 week ago)
-- [bump: alpine 3.20 to 3.21](https://github.com/ledccn/iyuuplus-dev/pull/153) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (2 weeks ago)
+- [bump: alpine 3.20 to 3.21](https://github.com/ledccn/iyuuplus-dev/pull/153) on [ledccn/iyuuplus-dev](https://github.com/ledccn/iyuuplus-dev) (3 weeks ago)
 - [Python code formatting](https://github.com/xiaoyaDev/xiaoya-alist/pull/260) on [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) (3 weeks ago)
 
 ## 🔧 ENVIRONMENT
@@ -59,7 +59,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (7 months ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (8 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (11 months ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 year ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
