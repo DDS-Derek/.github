@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.4-1](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.4-1), 5 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.5), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 1 week ago) - A small AriaNg Docker image
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([DEV_202501121652](https://github.com/xylplm/media-saber-public/releases/tag/DEV_202501121652), 2 weeks ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [lavie/runlike](https://github.com/lavie/runlike) ([1.5.0](https://github.com/lavie/runlike/releases/tag/1.5.0), 2 weeks ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
