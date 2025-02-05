@@ -30,7 +30,7 @@ jobs:
         run: |
           sed -i '\|- \[DDS-Derek\/\.github\](https:\/\/github\.com\/DDS-Derek\/\.github)|d' profile/README.md
       -
-        uses: stefanzweifel/git-auto-commit-action@ac8823709a85c7ce090849ac3e5fe24d006f6e18
+        uses: stefanzweifel/git-auto-commit-action@c86fa26bedab90b9a250e22f66759c0c50699f15
         with:
           commit_message: 'Update generated README'
           branch: main
