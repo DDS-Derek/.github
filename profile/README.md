@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.7-2](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.7-2), 1 day ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.8](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.8), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 1 week ago) - A more easy-to-use filebrowser docker image
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.0](https://github.com/lavie/runlike/releases/tag/v1.6.0), 1 week ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 3 weeks ago) - A small AriaNg Docker image
