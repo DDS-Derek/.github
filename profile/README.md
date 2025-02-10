@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 week ago)
 - [DDS-Derek/runlike-Docker](https://github.com/DDS-Derek/runlike-Docker) -  (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
