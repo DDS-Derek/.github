@@ -23,11 +23,11 @@
 
 #### 🌱 My latest projects
 
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (today)
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (2 days ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (2 weeks ago)
 - [DDS-Derek/runlike-Docker](https://github.com/DDS-Derek/runlike-Docker) -  (2 weeks ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
