@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.2.9](https://github.com/jxxghp/MoviePilot/releases/tag/v2.2.9), 4 days ago) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.3.0](https://github.com/jxxghp/MoviePilot/releases/tag/v2.3.0), today) - NAS媒体库自动化管理工具
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.2](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.2), 6 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 2 weeks ago) - A more easy-to-use filebrowser docker image
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.0](https://github.com/lavie/runlike/releases/tag/v1.6.0), 2 weeks ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
