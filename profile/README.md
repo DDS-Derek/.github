@@ -25,13 +25,13 @@
 
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) - A simple manga browser 一款docker直装的漫画浏览器 (1 week ago)
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据 (1 week ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 weeks ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (3 weeks ago)
 - [DDS-Derek/runlike-Docker](https://github.com/DDS-Derek/runlike-Docker) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.3](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.3), 2 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.3](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.3), 3 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 3 weeks ago) - A more easy-to-use filebrowser docker image
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.0](https://github.com/lavie/runlike/releases/tag/v1.6.0), 3 weeks ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 1 month ago) - A small AriaNg Docker image
@@ -61,7 +61,7 @@ IDE & Tools:
 
 - [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (9 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (1 year ago)
-- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (1 year ago)
+- [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 years ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
 - [【NAStool系列】 Autosub 插件使用方法](https://blog.ddsrem.com/archives/nastool-autosub-use-way) (2 years ago)
 - [【Docker项目】一个好用的笔记软件 —— Joplin](https://blog.ddsrem.com/archives/joplin) (2 years ago)
