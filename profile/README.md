@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.5](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.5), 1 day ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.6](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.6), today) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.3](https://github.com/lavie/runlike/releases/tag/v1.6.3), 1 week ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 1 month ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 1 month ago) - A small AriaNg Docker image
