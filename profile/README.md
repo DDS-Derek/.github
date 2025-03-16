@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 weeks ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
