@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (4 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (2 weeks ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (2 weeks ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.12](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.12), 5 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.12](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.12), 6 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.3](https://github.com/lavie/runlike/releases/tag/v1.6.3), 3 weeks ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 1 month ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 2 months ago) - A small AriaNg Docker image
@@ -59,7 +59,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (9 months ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (10 months ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (1 year ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 years ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
