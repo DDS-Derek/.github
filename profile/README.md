@@ -39,7 +39,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [bump: docker version 6.1.3 to 7.1.0](https://github.com/jxxghp/MoviePilot/pull/4034) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
+- [bump: docker version 6.1.3 to 7.1.0](https://github.com/jxxghp/MoviePilot/pull/4034) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 - [feat(crossseed): support moviepilot v2](https://github.com/jxxghp/MoviePilot-Plugins/pull/668) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 month ago)
 - [feat: added test for `--use-volume-id` parameter](https://github.com/lavie/runlike/pull/129) on [lavie/runlike](https://github.com/lavie/runlike) (1 month ago)
 - [feat: add redis server](https://github.com/lkw199711/smanga/pull/210) on [lkw199711/smanga](https://github.com/lkw199711/smanga) (2 months ago)
