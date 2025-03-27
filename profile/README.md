@@ -31,11 +31,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.6](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.6), today) - icret/EasyImages2.0 Docker 镜像
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.12](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.12), 1 week ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [lavie/runlike](https://github.com/lavie/runlike) ([v1.6.3](https://github.com/lavie/runlike/releases/tag/v1.6.3), 1 month ago) - Given an existing docker container, prints the command line necessary to run a copy of it.
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.32.0](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.32.0), 1 month ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/AriaNg-Docker](https://github.com/DDS-Derek/AriaNg-Docker) ([v1.3.9](https://github.com/DDS-Derek/AriaNg-Docker/releases/tag/v1.3.9), 2 months ago) - A small AriaNg Docker image
-- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([DEV_202501121652](https://github.com/xylplm/media-saber-public/releases/tag/DEV_202501121652), 2 months ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 
 #### 🔨 Latest Pull Requests I published
 
