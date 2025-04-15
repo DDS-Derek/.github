@@ -23,16 +23,16 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 day ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 week ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (1 month ago)
 - [DDS-Derek/qBittorrent-Enhanced-Edition-Docker](https://github.com/DDS-Derek/qBittorrent-Enhanced-Edition-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent Enhanced Edition 镜像 (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 1 day ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.7-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.7-7.2), 1 day ago)
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 2 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.7-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.7-7.2), 2 days ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.13](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.13), 1 week ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [907739769/alist-strm](https://github.com/907739769/alist-strm) ([2.0.0](https://github.com/907739769/alist-strm/releases/tag/2.0.0), 1 week ago) - 将alist的视频文件生成媒体播放设备可播放的strm文件
 - [DDS-Derek/EasyImages-Docker](https://github.com/DDS-Derek/EasyImages-Docker) ([v2.8.6](https://github.com/DDS-Derek/EasyImages-Docker/releases/tag/v2.8.6), 2 weeks ago) - icret/EasyImages2.0 Docker 镜像
