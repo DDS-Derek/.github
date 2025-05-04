@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.8.9](https://github.com/lkw199711/smanga/releases/tag/3.8.9), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.0](https://github.com/lkw199711/smanga/releases/tag/3.9.0), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 3 weeks ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.7-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.7-7.2), 3 weeks ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.13](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.13), 4 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
