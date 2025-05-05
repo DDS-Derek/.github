@@ -23,8 +23,8 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (3 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
 - [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (2 weeks ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 weeks ago)
