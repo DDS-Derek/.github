@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
-- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (3 days ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 day ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (4 days ago)
 - [DDS-Derek/qBittorrent-EE-SP-Docker](https://github.com/DDS-Derek/qBittorrent-EE-SP-Docker) - 由 nevinee 大佬的 qBittorrent 镜像改编的 qBittorrent 增强快较版 镜像 (2 weeks ago)
 - [xiaoyaDev/xiaoya_emd_go](https://github.com/xiaoyaDev/xiaoya_emd_go) - 小雅元数据爬虫Golang版 (2 weeks ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.0](https://github.com/lkw199711/smanga/releases/tag/3.9.0), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.0](https://github.com/lkw199711/smanga/releases/tag/3.9.0), 2 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 3 weeks ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.7-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.7-7.2), 3 weeks ago)
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.13](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.13), 1 month ago) - 支持PUID，PGID，Umask设置的Reader镜像
@@ -39,7 +39,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update themedev.md](https://github.com/jxxghp/MoviePilot-Wiki/pull/8) on [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) (3 days ago)
+- [Update themedev.md](https://github.com/jxxghp/MoviePilot-Wiki/pull/8) on [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) (4 days ago)
 - [fix(crossseed): missing a private property](https://github.com/jxxghp/MoviePilot-Plugins/pull/724) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 month ago)
 - [bump: docker version 6.1.3 to 7.1.0](https://github.com/jxxghp/MoviePilot/pull/4034) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [feat(crossseed): support moviepilot v2](https://github.com/jxxghp/MoviePilot-Plugins/pull/668) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (3 months ago)
