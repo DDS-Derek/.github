@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202505091236](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202505091236), 6 days ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
+- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202505151858](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202505151858), today) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.0](https://github.com/lkw199711/smanga/releases/tag/3.9.0), 1 week ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 1 month ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.1.7-7.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.1.7-7.2), 1 month ago)
