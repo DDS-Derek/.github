@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(plugin): dependency dynamic refresh](https://github.com/jxxghp/MoviePilot/pull/4334) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(u115): refresh delay](https://github.com/jxxghp/MoviePilot/pull/4300) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (6 days ago)
 - [Update themedev.md](https://github.com/jxxghp/MoviePilot-Wiki/pull/8) on [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) (3 weeks ago)
 - [fix(crossseed): missing a private property](https://github.com/jxxghp/MoviePilot-Plugins/pull/724) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (1 month ago)
 - [bump: docker version 6.1.3 to 7.1.0](https://github.com/jxxghp/MoviePilot/pull/4034) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 months ago)
-- [feat(crossseed): support moviepilot v2](https://github.com/jxxghp/MoviePilot-Plugins/pull/668) on [jxxghp/MoviePilot-Plugins](https://github.com/jxxghp/MoviePilot-Plugins) (3 months ago)
 
 ## 🔧 ENVIRONMENT
 OS:
