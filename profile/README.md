@@ -23,8 +23,8 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (5 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (6 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
 - [jxxghp/MoviePilot-Wiki](https://github.com/jxxghp/MoviePilot-Wiki) - MoviePilot安装与使用指引 (1 month ago)
@@ -32,15 +32,15 @@
 #### 🔭 Latest releases I've contributed to
 
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.7-0.15.3](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.7-0.15.3), 1 week ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.2](https://github.com/lkw199711/smanga/releases/tag/3.9.2), 1 week ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.2](https://github.com/lkw199711/smanga/releases/tag/3.9.2), 2 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202505301749](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202505301749), 2 weeks ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.14](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.14), 2 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 2 months ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 
 #### 🔨 Latest Pull Requests I published
 
-- [Increment](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/44) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (5 days ago)
-- [Upload](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/35) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
+- [Increment](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/44) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (6 days ago)
+- [Upload](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/35) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 weeks ago)
 - [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/33) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 weeks ago)
 - [尝试修复115洗版问题与重启逻辑判断不完整](https://github.com/jxxghp/MoviePilot/pull/4344) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [Db dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/29) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 weeks ago)
