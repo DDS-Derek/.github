@@ -31,11 +31,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [907739769/openlist-strm](https://github.com/907739769/openlist-strm) ([3.0.0](https://github.com/907739769/openlist-strm/releases/tag/3.0.0), 2 days ago) - 将openlist的视频文件生成媒体播放设备可播放的strm文件
-- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202506191125](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202506191125), 3 days ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
+- [907739769/openlist-strm](https://github.com/907739769/openlist-strm) ([3.0.0](https://github.com/907739769/openlist-strm/releases/tag/3.0.0), 3 days ago) - 将openlist的视频文件生成媒体播放设备可播放的strm文件
+- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202506191125](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202506191125), 4 days ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.7-0.15.3](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.7-0.15.3), 3 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.2](https://github.com/lkw199711/smanga/releases/tag/3.9.2), 3 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
-- [DDS-Derek/Reader-Docker](https://github.com/DDS-Derek/Reader-Docker) ([v3.2.14](https://github.com/DDS-Derek/Reader-Docker/releases/tag/v3.2.14), 4 weeks ago) - 支持PUID，PGID，Umask设置的Reader镜像
+- [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([1.6.15](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/1.6.15), 2 months ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
 
 #### 🔨 Latest Pull Requests I published
 
