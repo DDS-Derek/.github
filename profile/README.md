@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [907739769/openlist-strm](https://github.com/907739769/openlist-strm) ([3.0.0](https://github.com/907739769/openlist-strm/releases/tag/3.0.0), 6 days ago) - 将openlist的视频文件生成媒体播放设备可播放的strm文件
+- [907739769/openlist-strm](https://github.com/907739769/openlist-strm) ([3.0.0](https://github.com/907739769/openlist-strm/releases/tag/3.0.0), 1 week ago) - 将openlist的视频文件生成媒体播放设备可播放的strm文件
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202506191125](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202506191125), 1 week ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.7-0.15.3](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.7-0.15.3), 3 weeks ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.2](https://github.com/lkw199711/smanga/releases/tag/3.9.2), 3 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
@@ -41,7 +41,7 @@
 
 - [Increment](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/44) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 weeks ago)
 - [Upload](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/35) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
-- [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/33) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
+- [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/33) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 weeks ago)
 - [尝试修复115洗版问题与重启逻辑判断不完整](https://github.com/jxxghp/MoviePilot/pull/4344) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 - [Db dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/29) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 
