@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (2 days ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (4 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (5 days ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (5 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.5](https://github.com/lkw199711/smanga/releases/tag/3.9.5), today) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([3.9.6](https://github.com/lkw199711/smanga/releases/tag/3.9.6), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 5 days ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.15.5](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.15.5), 5 days ago)
 - [907739769/openlist-strm](https://github.com/907739769/openlist-strm) ([3.0.0](https://github.com/907739769/openlist-strm/releases/tag/3.0.0), 1 week ago) - 将openlist的视频文件生成媒体播放设备可播放的strm文件
