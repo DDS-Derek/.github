@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/88) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
+- [Dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/87) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
+- [test](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/86) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [Increment](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/44) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [Upload](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/35) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
-- [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/33) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
-- [尝试修复115洗版问题与重启逻辑判断不完整](https://github.com/jxxghp/MoviePilot/pull/4344) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
-- [Db dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/29) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
