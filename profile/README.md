@@ -23,9 +23,9 @@
 
 #### 🌱 My latest projects
 
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (today)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (4 weeks ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 weeks ago)
 
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/106) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
+- [修复增量同步无限递归](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/105) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [Upgrade123](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/103) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [Dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/88) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [Dev](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/87) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [test](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/86) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [Increment](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/44) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
