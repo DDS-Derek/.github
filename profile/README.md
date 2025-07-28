@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Offline](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/112) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
+- [offline](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/111) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [Fix 405](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/110) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [cleaner](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/108) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/107) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
-- [full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/106) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
-- [修复增量同步无限递归](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/105) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
