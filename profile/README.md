@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/130) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [sentry done](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/127) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/125) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [nullbr search](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/124) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
 - [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/122) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
-- [Sameplay](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/121) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
