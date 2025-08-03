@@ -23,8 +23,8 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (2 days ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (4 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (3 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 month ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 month ago)
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/130) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
-- [sentry done](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/127) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
-- [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/125) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
-- [nullbr search](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/124) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
-- [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/122) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 days ago)
+- [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/130) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 days ago)
+- [sentry done](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/127) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 days ago)
+- [fix](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/125) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 days ago)
+- [nullbr search](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/124) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 days ago)
+- [path sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/122) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
