@@ -23,15 +23,15 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 day ago)
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (6 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 week ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 month ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.0.34](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.0.34), 1 day ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.0.34](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.0.34), 2 days ago)
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202508111017](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202508111017), 1 week ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.0.7](https://github.com/lkw199711/smanga/releases/tag/4.0.7), 2 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 1 month ago) - A more easy-to-use filebrowser docker image
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(docker): 作業ディレクトリが間違っています](https://github.com/jxxghp/MoviePilot/pull/4800) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
+- [fix(docker): fuck ai bugs](https://github.com/jxxghp/MoviePilot/pull/4797) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [Size limit](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/165) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [Sync del](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/156) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [fix ali2115](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/153) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [Refactoring configuration manager](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/146) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [Fix bugs](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/145) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
