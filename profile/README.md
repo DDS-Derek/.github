@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(database): upgrade error in pg database](https://github.com/jxxghp/MoviePilot/pull/4820) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [fix(docker): 作業ディレクトリが間違っています](https://github.com/jxxghp/MoviePilot/pull/4800) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [fix(docker): fuck ai bugs](https://github.com/jxxghp/MoviePilot/pull/4797) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
 - [Size limit](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/165) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [Sync del](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/156) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [fix ali2115](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/153) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
