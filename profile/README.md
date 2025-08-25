@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 week ago)
-- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) -  (1 day ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
+- [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (2 weeks ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 month ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.0.39](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.0.39), 1 day ago)
-- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202508111017](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202508111017), 1 week ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.0.43](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.0.43), 1 day ago)
+- [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202508111017](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202508111017), 2 weeks ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.0.7](https://github.com/lkw199711/smanga/releases/tag/4.0.7), 2 weeks ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 1 month ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.15.5](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.15.5), 1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(database): upgrade error in pg database](https://github.com/jxxghp/MoviePilot/pull/4820) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
-- [fix(docker): 作業ディレクトリが間違っています](https://github.com/jxxghp/MoviePilot/pull/4800) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [fix(docker): fuck ai bugs](https://github.com/jxxghp/MoviePilot/pull/4797) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 days ago)
-- [Size limit](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/165) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [Sync del](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/156) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
+- [Transfer enhancement](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/181) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
+- [Fix progress](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/180) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 day ago)
+- [fix(database): upgrade error in pg database](https://github.com/jxxghp/MoviePilot/pull/4820) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 days ago)
+- [fix(docker): 作業ディレクトリが間違っています](https://github.com/jxxghp/MoviePilot/pull/4800) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
+- [fix(docker): fuck ai bugs](https://github.com/jxxghp/MoviePilot/pull/4797) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (4 days ago)
 
 ## 🔧 ENVIRONMENT
 OS:
