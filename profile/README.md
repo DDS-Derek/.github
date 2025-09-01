@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.1.5](https://github.com/lkw199711/smanga/releases/tag/4.1.5), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.0.55](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.0.55), 2 days ago) - MoviePilot 第三方插件
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.0.8](https://github.com/lkw199711/smanga/releases/tag/4.0.8), 5 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [xylplm/media-saber-public](https://github.com/xylplm/media-saber-public) ([3.0.202508111017](https://github.com/xylplm/media-saber-public/releases/tag/3.0.202508111017), 3 weeks ago) - 由多位热心Pter共同努力，立足于开发自用，完全自主开发，做一款全新、高效、稳定、快速、方便好用、功能强大的媒体管理工具！
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 2 months ago) - A more easy-to-use filebrowser docker image
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.15.5](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.15.5), 2 months ago)
