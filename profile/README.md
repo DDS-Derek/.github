@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix(u115): code logic vulnerabilities](https://github.com/jxxghp/MoviePilot/pull/4902) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/189) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [History](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/186) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [Transfer enhancement](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/181) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
 - [Fix progress](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/180) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 week ago)
-- [fix(database): upgrade error in pg database](https://github.com/jxxghp/MoviePilot/pull/4820) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 week ago)
 
 ## 🔧 ENVIRONMENT
 OS:
