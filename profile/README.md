@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 day ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (today)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (3 weeks ago)
 - [DDS-Derek/MoviePilot-OOF](https://github.com/DDS-Derek/MoviePilot-OOF) - MoviePilot OFF 特殊定制镜像仓库 (3 weeks ago)
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [sync webdav](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/214) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
+- [Db](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/213) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [feat(docker): add `START_NOGOSU` mode](https://github.com/jxxghp/MoviePilot/pull/4904) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [fix(u115): code logic vulnerabilities](https://github.com/jxxghp/MoviePilot/pull/4902) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
 - [full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/189) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
-- [History](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/186) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
-- [Transfer enhancement](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/181) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 weeks ago)
 
 ## 🔧 ENVIRONMENT
 OS:
