@@ -23,9 +23,9 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (today)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
 - [DDS-Derek/audiobookshelf-Docker](https://github.com/DDS-Derek/audiobookshelf-Docker) - A better audiobookshelf image (1 week ago)
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 weeks ago)
 - [DDS-Derek/MoviePilot-OOF](https://github.com/DDS-Derek/MoviePilot-OOF) - MoviePilot OFF 特殊定制镜像仓库 (1 month ago)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (3 months ago)
 
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Rust full strm](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/225) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (today)
 - [feat fast full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/219) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (2 weeks ago)
 - [sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/217) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
 - [sync webdav](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/214) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 weeks ago)
 - [Db](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/213) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 weeks ago)
-- [feat(docker): add `START_NOGOSU` mode](https://github.com/jxxghp/MoviePilot/pull/4904) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
