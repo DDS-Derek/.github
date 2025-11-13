@@ -23,7 +23,7 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (today)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (4 days ago)
 - [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (4 days ago)
 - [JIUShangZako/ZakoBili](https://github.com/JIUShangZako/ZakoBili) - B站 会员购 购票工具 (5 days ago)
