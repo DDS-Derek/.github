@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.9](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.9), 1 day ago) - MoviePilot 第三方插件
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.10](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.10), today) - MoviePilot 第三方插件
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 6 days ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.2), 6 days ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.2](https://github.com/lkw199711/smanga/releases/tag/4.2.2), 2 months ago) - A simple manga browser 一款docker直装的漫画浏览器
