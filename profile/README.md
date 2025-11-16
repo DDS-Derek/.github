@@ -23,23 +23,23 @@
 
 #### 🌱 My latest projects
 
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (6 days ago)
-- [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (6 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (3 days ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
+- [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (1 week ago)
 - [JIUShangZako/ZakoBili](https://github.com/JIUShangZako/ZakoBili) - B站 会员购 购票工具 (1 week ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.10](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.10), today) - MoviePilot 第三方插件
-- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 6 days ago) - LinuxDir2HTML Docker 增强版
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.2), 6 days ago)
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.2](https://github.com/lkw199711/smanga/releases/tag/4.2.2), 2 months ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.10](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.10), 1 day ago) - MoviePilot 第三方插件
+- [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 1 week ago) - LinuxDir2HTML Docker 增强版
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.2), 1 week ago)
 - [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 4 months ago) - A more easy-to-use filebrowser docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [Rust full strm](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/225) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (3 weeks ago)
+- [Rust full strm](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/225) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (4 weeks ago)
 - [feat fast full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/219) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/217) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [sync webdav](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/214) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
@@ -59,7 +59,7 @@ IDE & Tools:
 
 ## 📜BLOG
 
-- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (1 year ago)
+- [【MoviePilot系列】媒体目录精细化配置指南](https://blog.ddsrem.com/archives/mediadirconfig) (2 years ago)
 - [【小雅系列】小雅相关周边介绍](https://blog.ddsrem.com/archives/alist-xiaoya) (2 years ago)
 - [【MoviePilot系列】常见问题及其解决办法 &amp; 部分自建功能教程](https://blog.ddsrem.com/archives/moviepilot-issue-solution-outorial) (2 years ago)
 - [【Linux笔记】Ubuntu20.04升级22.04后SSH连接不上解决方法](https://blog.ddsrem.com/archives/fix-ubuntu2204-ssh) (2 years ago)
