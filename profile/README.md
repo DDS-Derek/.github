@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.12](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.12), 1 day ago) - MoviePilot 第三方插件
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), today) - MoviePilot 第三方插件
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 3 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 1 week ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.2), 1 week ago)
@@ -39,11 +39,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
 - [Rust full strm](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/225) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [feat fast full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/219) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/217) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [sync webdav](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/214) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
-- [Db](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/213) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
