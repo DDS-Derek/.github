@@ -26,12 +26,12 @@
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 day ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 days ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
-- [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
+- [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.4), today) - NAS媒体库自动化管理工具
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.5), today) - NAS媒体库自动化管理工具
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), 1 day ago) - MoviePilot 第三方插件
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 4 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 1 week ago) - LinuxDir2HTML Docker 增强版
