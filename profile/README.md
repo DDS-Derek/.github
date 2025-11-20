@@ -23,27 +23,27 @@
 
 #### 🌱 My latest projects
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (1 day ago)
-- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (6 days ago)
-- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 day ago)
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (2 days ago)
+- [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (1 week ago)
-- [JIUShangZako/ZakoBili](https://github.com/JIUShangZako/ZakoBili) - B站 会员购 购票工具 (1 week ago)
+- [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), today) - MoviePilot 第三方插件
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 3 days ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.4](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.4), today) - NAS媒体库自动化管理工具
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), 1 day ago) - MoviePilot 第三方插件
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 4 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 1 week ago) - LinuxDir2HTML Docker 增强版
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.2](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.2), 1 week ago)
-- [DDS-Derek/Filebrowser-Docker](https://github.com/DDS-Derek/Filebrowser-Docker) ([v2.33.10](https://github.com/DDS-Derek/Filebrowser-Docker/releases/tag/v2.33.10), 4 months ago) - A more easy-to-use filebrowser docker image
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (today)
+- [Rc 1 2](https://github.com/DDS-Derek/libtorrent-fast-hash-check/pull/1) on [DDS-Derek/libtorrent-fast-hash-check](https://github.com/DDS-Derek/libtorrent-fast-hash-check) (today)
+- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (1 day ago)
 - [Rust full strm](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/225) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [feat fast full sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/219) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 - [sync](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/217) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
-- [sync webdav](https://github.com/DDS-Derek/MoviePilot-Plugins/pull/214) on [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) (1 month ago)
 
 ## 🔧 ENVIRONMENT
 OS:
