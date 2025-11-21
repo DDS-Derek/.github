@@ -31,8 +31,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.5), today) - NAS媒体库自动化管理工具
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([v1.6.1](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/v1.6.1), 1 day ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.5), 1 day ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), 2 days ago) - MoviePilot 第三方插件
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 5 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 1 week ago) - LinuxDir2HTML Docker 增强版
