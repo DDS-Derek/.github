@@ -23,11 +23,11 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (today)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (3 days ago)
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (4 days ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (1 week ago)
-- [JIUShangZako/ZakoCPP](https://github.com/JIUShangZako/ZakoCPP) - ALLCPP CPP 购票工具 (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
