@@ -23,17 +23,17 @@
 
 #### 🌱 My latest projects
 
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (today)
 - [DDS-Derek/qBittorrent_Skip_Patch-Builder](https://github.com/DDS-Derek/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 day ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (4 days ago)
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 days ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (1 week ago)
 - [DDS-Derek/rtorrent-rutorrent-flood-Docker](https://github.com/DDS-Derek/rtorrent-rutorrent-flood-Docker) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.5](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.5), 2 days ago) - NAS媒体库自动化管理工具
+- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.15](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.15), today) - MoviePilot 第三方插件
+- [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.6](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.6), today) - NAS媒体库自动化管理工具
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([v1.6.1](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/v1.6.1), 3 days ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
-- [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.14](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.14), 4 days ago) - MoviePilot 第三方插件
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.3](https://github.com/lkw199711/smanga/releases/tag/4.2.3), 1 week ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [DDS-Derek/LinuxDir2HTML-Docker](https://github.com/DDS-Derek/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDS-Derek/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 2 weeks ago) - LinuxDir2HTML Docker 增强版
 
