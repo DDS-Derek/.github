@@ -12,14 +12,14 @@
 
 ## 📫 REACH ME
 <p align="left">
-<a href="https://twitter.com/ddsrem_derek" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://twitter.com/byeddsrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## 💼 WORKING
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem"></img>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSDerek"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DDSRem-Bot"></img>
 
 #### 🌱 My latest projects
 {{range recentContributions 6}}
@@ -55,7 +55,7 @@ IDE & Tools:
 
 ## 📈 STATS
 
-![](https://github-readme-stats.vercel.app/api?username=DDSDerek&show_icons=true&theme=ocean_dark)
+![](https://github-readme-stats.vercel.app/api?username=DDSRem-Bot&show_icons=true&theme=ocean_dark)
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=radical)
 
