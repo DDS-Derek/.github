@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.64](https://github.com/lkw199711/smanga/releases/tag/4.2.64), 1 day ago) - A simple manga browser 一款docker直装的漫画浏览器
+- [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.65](https://github.com/lkw199711/smanga/releases/tag/4.2.65), today) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.7), 2 days ago) - NAS媒体库自动化管理工具
 - [DDS-Derek/MoviePilot-Plugins](https://github.com/DDS-Derek/MoviePilot-Plugins) ([P115StrmHelper_v2.2.16](https://github.com/DDS-Derek/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.16), 3 days ago) - MoviePilot 第三方插件
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([v1.6.1](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/v1.6.1), 1 week ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
