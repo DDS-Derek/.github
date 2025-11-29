@@ -23,19 +23,19 @@
 
 #### 🌱 My latest projects
 
+- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (today)
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) - MoviePilot 第三方插件 (5 days ago)
 - [DDSRem-Dev/qBittorrent_Skip_Patch-Builder](https://github.com/DDSRem-Dev/qBittorrent_Skip_Patch-Builder) - [Unofficial] qBittorrent 快校版 | 功能与 nevinee/qbittorrent 一致 (1 week ago)
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具 (1 week ago)
 - [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边 (2 weeks ago)
-- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.4](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.4), today)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.65](https://github.com/lkw199711/smanga/releases/tag/4.2.65), 2 days ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.7), 4 days ago) - NAS媒体库自动化管理工具
 - [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.2.16](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.16), 5 days ago) - MoviePilot 第三方插件
 - [xiaoyaDev/xiaoya_db](https://github.com/xiaoyaDev/xiaoya_db) ([v1.6.1](https://github.com/xiaoyaDev/xiaoya_db/releases/tag/v1.6.1), 1 week ago) - 高速异步爬虫从 https://emby.xiaoya.pro/ 同步小雅元数据
-- [DDSRem-Dev/LinuxDir2HTML-Docker](https://github.com/DDSRem-Dev/LinuxDir2HTML-Docker) ([v1.2.7](https://github.com/DDSRem-Dev/LinuxDir2HTML-Docker/releases/tag/v1.2.7), 2 weeks ago) - LinuxDir2HTML Docker 增强版
 
 #### 🔨 Latest Pull Requests I published
 
