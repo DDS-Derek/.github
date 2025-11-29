@@ -4,7 +4,7 @@
 
 # 👋 I'm DDSRem. 
 
-![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/header_.png)
+![](https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/header_.png)
 
 ```
 🆔 ID: DDSRem | Derek
@@ -12,8 +12,8 @@
 
 ## 📫 REACH ME
 <p align="left">
-<a href="https://twitter.com/byeddsrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://twitter.com/byeddsrem" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:ddstomo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 ## 💼 WORKING
@@ -59,8 +59,8 @@ IDE & Tools:
 
 ![](https://github-readme-stats.vercel.app/api?username=DDSRem&show_icons=true&theme=radical)
 
-![](https://count.getloli.com/get/@DDS-Derek.github.readme)
+![](https://count.getloli.com/get/@DDSRem-Dev.github.readme)
 
-<img src="https://raw.githubusercontent.com/DDS-Derek/.github/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/DDSRem-Dev/.github/main/github-metrics.svg" alt="Metrics" width="100%">
 
-![](https://raw.githubusercontent.com/DDS-Derek/.github/main/profile/assets/Bottom_down.svg)
+![](https://raw.githubusercontent.com/DDSRem-Dev/.github/main/profile/assets/Bottom_down.svg)

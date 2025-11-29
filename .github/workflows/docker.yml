@@ -28,7 +28,7 @@ jobs:
 
       -
         run: |
-          git clone -b test https://github.com/DDS-Derek/talebook.git test
+          git clone -b test https://github.com/DDSRem-Dev/talebook.git test
 
       -
         name: Login DockerHub
