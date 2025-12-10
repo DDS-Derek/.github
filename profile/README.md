@@ -31,7 +31,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.2.18](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.18), 1 day ago) - MoviePilot 第三方插件
+- [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) ([P115StrmHelper_v2.2.18](https://github.com/DDSRem-Dev/MoviePilot-Plugins/releases/tag/P115StrmHelper_v2.2.18), 2 days ago) - MoviePilot 第三方插件
 - [DDSRem-Dev/rtorrent-rutorrent-flood-Docker](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker) ([5.2.10-0.16.4](https://github.com/DDSRem-Dev/rtorrent-rutorrent-flood-Docker/releases/tag/5.2.10-0.16.4), 1 week ago)
 - [lkw199711/smanga](https://github.com/lkw199711/smanga) ([4.2.65](https://github.com/lkw199711/smanga/releases/tag/4.2.65), 1 week ago) - A simple manga browser 一款docker直装的漫画浏览器
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) ([v2.8.7](https://github.com/jxxghp/MoviePilot/releases/tag/v2.8.7), 2 weeks ago) - NAS媒体库自动化管理工具
@@ -40,7 +40,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Rc 1 2](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check/pull/1) on [DDSRem-Dev/libtorrent-fast-hash-check](https://github.com/DDSRem-Dev/libtorrent-fast-hash-check) (2 weeks ago)
-- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (2 weeks ago)
+- [feat(u115): improve stability of the u115 module](https://github.com/jxxghp/MoviePilot/pull/5146) on [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) (3 weeks ago)
 - [Rust full strm](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/225) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (1 month ago)
 - [feat fast full sync](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/219) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (2 months ago)
 - [sync](https://github.com/DDSRem-Dev/MoviePilot-Plugins/pull/217) on [DDSRem-Dev/MoviePilot-Plugins](https://github.com/DDSRem-Dev/MoviePilot-Plugins) (2 months ago)
